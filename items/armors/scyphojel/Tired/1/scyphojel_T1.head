@@ -1,0 +1,68 @@
+{
+  "itemName" : "scyphojel_T1head",
+  "price" : 480,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headarmour",
+  "description" : "Studies of the closely related Shelljel's hard cells have led to armor that will excel when you need to repel damage from Scyphojel bells.",
+  "shortdescription" : "Shelljel Bellhelm",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "level" : 1,
+  "leveledStatusEffects" : [
+    {
+      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.15
+    },
+    {
+      "levelFunction" : "standardArmorLevelProtectionMultiplier",
+      "stat" : "protection",
+      "amount" : 0.3
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+      "stat" : "maxEnergy",
+      "amount" : 3
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
+      "stat" : "maxHealth",
+      "amount" : 3
+    }
+  ],
+
+  "itemTags" : [ "tier1armour" ],
+
+  "colorOptions" : [
+    // YELLOW
+    { "ffca8a" : "ffffa7EE", "e0975c" : "e2c34466", "a85636" : "a46e06EE", "6f2919" : "642f00EE" },
+    // BLACK
+    { "ffca8a" : "838383EE", "e0975c" : "55555566", "a85636" : "383838EE", "6f2919" : "151515EE" },
+    // GREY
+    { "ffca8a" : "b5b5b5EE", "e0975c" : "80808066", "a85636" : "555555EE", "6f2919" : "303030EE" },
+    // WHITE
+    { "ffca8a" : "e6e6e6EE", "e0975c" : "b6b6b666", "a85636" : "7b7b7bEE", "6f2919" : "373737EE" },
+    // RED
+    { "ffca8a" : "f4988cEE", "e0975c" : "d93a3a66", "a85636" : "932625EE", "6f2919" : "601119EE" },
+    // ORANGE
+    { "ffca8a" : "ffd495EE", "e0975c" : "ea993166", "a85636" : "af4e00EE", "6f2919" : "6e2900EE" },
+    // YELLOW
+    { "ffca8a" : "ffffa7EE", "e0975c" : "e2c34466", "a85636" : "a46e06EE", "6f2919" : "642f00EE" },
+    // GREEN
+    { "ffca8a" : "b2e89dEE", "e0975c" : "51bd3b66", "a85636" : "247824EE", "6f2919" : "144216EE" },
+    // BLUE
+    { "ffca8a" : "96cbe7EE", "e0975c" : "5588d466", "a85636" : "344495EE", "6f2919" : "1a1c51EE" },
+    // PURPLE
+    { "ffca8a" : "d29ce7EE", "e0975c" : "a451c466", "a85636" : "6a2284EE", "6f2919" : "320c40EE" },
+    // PINK
+    { "ffca8a" : "eab3dbEE", "e0975c" : "d35eae66", "a85636" : "97276dEE", "6f2919" : "59163fEE" },
+    // BROWN
+    { "ffca8a" : "ccae7cEE", "e0975c" : "a4784466", "a85636" : "754c23EE", "6f2919" : "472b13EE" }
+  ]
+}

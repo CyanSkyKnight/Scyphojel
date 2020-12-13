@@ -1,0 +1,32 @@
+{
+  "projectileName" : "scyphojelbubble",
+  "image" : "scyphojelbubble.png",
+  "physics" : "friendlybubble",
+  "animationCycle" : 1,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 16,
+  "power" : 50,
+  "speed" : 25,
+  "timeToLive" : 0.9,
+  "bounces" : 0,
+  "piercing" : false,
+  "damagePoly" : [ [-4.5, 0], [-3, -3], [0, -4.5], [3, -3], [4.5, 0], [3, 3], [0, 4.5], [-3, 3] ],
+  "damageKind" : "ice",
+  "statusEffects" : [ "frostslow" ],
+  "lightColor" : [50, 50, 50],
+  "fullbright" : true,
+  "actionOnReap" : [
+      {
+      "action" : "sound",
+      "options" : [ "/sfx/projectiles/bubble_impact.ogg" ]
+    },
+      {
+      "action" : "sound",
+      "options" : [ "/sfx/projectiles/scyphojelbubbleacid.ogg" ]
+    },
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/elementimpact/iceimpactmute.config"
+    }
+  ]
+}

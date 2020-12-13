@@ -1,0 +1,27 @@
+{
+  "projectileName" : "scypojelpolygon2",
+  "physics" : "laser",
+  "bounces" : 3,
+  "damageKindImage" : "icon.png",
+  "image" : "scypojelpolygon2.png",
+  "animationCycle" : 0.2,
+  "frameNumber" : 4,
+  "timeToLive" : 3,
+  "power" : 50,
+  "knockback" : 8,
+  "speed" : 45,
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/plasmabulletexplosion/plasmabulletexplosion.config"
+    }
+  ],
+  "lightColor" : [73, 73, 0],
+  "fullbright" : true,
+  "damagePoly" : [ [-4.5, 0], [-3, -3], [0, -4.5], [3, -3], [4.5, 0], [3, 3], [0, 4.5], [-3, 3] ],
+  "scripts" : [ "/projectiles/activeitems/miniknogrocket/miniknogrocket.lua" ],
+  "maxSpeed" : 100,
+  "controlForce" : 50,
+  "damageKind" : "plasma"
+}

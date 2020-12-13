@@ -1,0 +1,13 @@
+{
+  "itemName" : "scyphojel_mesotile",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "scyphojel_mesotile.png",
+  "shortdescription" : "Jel Materia Slope",
+  "description" : "Glowing, Jel Materia hardened into crystal panelling.",
+  "glitchdescription" : "Observant. This is panelling widely used for ship and station construction.",
+  "florandescription" : "Shiny sssmooth glassss.",
+  "novakiddescription" : "Some thick glass, looks mighty solid.",
+  "materialId" : 54740
+}

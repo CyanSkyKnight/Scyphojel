@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/scyphojel",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/scyphojel",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

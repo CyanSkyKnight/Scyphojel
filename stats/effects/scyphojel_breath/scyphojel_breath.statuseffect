@@ -1,0 +1,8 @@
+{
+  "name" : "scyphojel_breath",
+  "effectConfig" : {"protection" : 1},
+
+  "scripts" : [
+    "scyphojel_breath.lua"
+  ]
+}

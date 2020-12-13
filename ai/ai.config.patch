@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/scyphojel",
+		"value" : {
+			"aiFrames" : "scyphojelAI.png",
+			"portraitFrames" : "portraits/scyphojelportrait.png",
+			"staticFrames" : "staticscyphojel.png"	
+		}
+	}
+]

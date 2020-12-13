@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel"],
+      "crewSize" : 2
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "scyphojelT2.png",
+      "position" : [7.75, 15],
+      "fullbright" : true
+    },
+    {
+      "image" : "scyphojelT2lit.png",
+      "position" : [7.75, 15]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "scyphojelT2blocks.png"
+}

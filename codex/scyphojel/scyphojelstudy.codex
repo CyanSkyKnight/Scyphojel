@@ -1,0 +1,13 @@
+{
+	"id" : "scyphojel_study",
+	"title" : "Scyphojel, a Study of the Space Jellies",
+	"description" : "A study of Scyphojel written by a Thaumoth.",
+	"icon" : "scyphojel_cover.png",
+	"contentPages" : [
+    "Scyphojel, (pronunciation: sai-fow-jel)"
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

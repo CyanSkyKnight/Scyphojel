@@ -1,0 +1,249 @@
+{
+  "kind" : "scyphojel",
+	"charCreationTooltip" : {
+	"title" : "scyphojel",
+	"subTitle" : "H2O",
+	"description" : "These bioluminescent jellyfish are at home in the vacuum of space. They move themselves around almost entirely through telekinesis. 95% of their bodies are made of a strange, electricity generating fluid called Jel Materia."
+  },
+  "footstepTiming" : 2,
+  "footstepSensor" : [0, 0],
+  "statusEffects" : [ "novakidglow", "scyphojel_platformaid", "scyphojel_breath" ],
+  
+  "humanoidOverrides" : {
+  "frontArmRotationCenter" : [-1, 0],
+  "backArmRotationCenter" : [-2, 2],
+  "frontHandPosition" : [8, -2],
+  "headSitOffset" : [-2, -1],
+  "sitOffset" : -6,
+  "bodyFullbright" : true,
+  "humanoidTiming" : {
+		// Idle, Walk, Run, Jump, Fall, Swim, SwimIdle, Duck, Sit, Lay
+		"stateCycle" : [1.0, 1.5, 1.2, 0.25, 0.25, 0.50, 0.50, 1.0, 1.0, 1.0],
+		"stateFrames" : [5, 8, 8, 4, 4, 7, 2, 1, 1, 1]
+  }
+  },   
+  "nameGen" : [ "/species/scyphojel_namegen.config:names", "/species/scyphojel_namegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/scyphojel_hurt2.ogg", "/sfx/humanoid/scyphojel_hurt2.ogg" ],
+  "charGenTextLabels" : [ "^#5f5f5f;Jellyness (max)^reset;", "Bell/Antennae", "Coat", "Outfit", "Mesoglea Color", "Alt Color", "Coat Color", "Outfit Color", "SCYPHOJEL", "Personality" ],
+  "skull" : "/humanoid/scyphojel/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+	
+  // Empty Hands
+      { "item" : "flagscyphojel" },
+	    
+// Anvil
+      { "item" : "humantier1head" },
+      { "item" : "humantier1chest" },
+      { "item" : "humantier1pants" },
+      { "item" : "humantier2head" },
+      { "item" : "humantier2chest" },
+      { "item" : "humantier2pants" },
+      { "item" : "scyphojelsword" },
+      { "item" : "ironshortsword" },
+      { "item" : "ironbroadsword" },
+      { "item" : "tungstenaxe" },
+      { "item" : "tungstenhammer" },
+// Anvil2
+      { "item" : "humantier3head" },
+      { "item" : "humantier3chest" },
+      { "item" : "humantier3pants" },
+      { "item" : "humantier4head" },
+      { "item" : "humantier4chest" },
+      { "item" : "humantier4pants" },
+      { "item" : "titaniumdagger" },
+      { "item" : "titaniumspear" },
+      { "item" : "durasteelbroadsword" },
+      { "item" : "durasteelshortsword" },
+// Anvil3
+	  { "item" : "humantier5ahead" },
+	  { "item" : "humantier5achest" },
+	  { "item" : "humantier5apants" },
+	  { "item" : "humantier6ahead" },
+	  { "item" : "humantier6achest" },
+	  { "item" : "humantier6apants" },
+	  { "item" : "humantier5mhead" },
+	  { "item" : "humantier5mchest" },
+	  { "item" : "humantier5mpants" },
+	  { "item" : "humantier6mhead" },
+	  { "item" : "humantier6mchest" },
+	  { "item" : "humantier6mpants" },
+	  { "item" : "humantier5shead" },
+	  { "item" : "humantier5schest" },
+	  { "item" : "humantier5spants" },
+	  { "item" : "humantier6shead" },
+	  { "item" : "humantier6schest" },
+	  { "item" : "humantier6spants" },
+	  { "item" : "aegisaltpistol" },
+	  { "item" : "aegisaltbow" },
+	  { "item" : "feroziumwand" },
+	  { "item" : "feroziumstaff" },
+	  { "item" : "violiumshortsword" },
+	  { "item" : "violiumbroadsword" },
+// Furniture Table 2
+      { "item" : "humanstoragelocker" },
+      { "item" : "scyphojelshipdoor" },
+      { "item" : "scyphojelshiphatch" }
+// Spinning Wheel
+	  ]
+  },
+  
+  "altOptionAsUndyColor" : true,
+  "headOptionAsHairColor" : true,
+  "altOptionAsHairColor" : true,
+  "hairColorAsBodySubColor" : true,
+  
+  "genders" : [
+    {
+      "name" : "male",
+      "image" : "/interface/title/scyphojelcyanico.png",
+      "characterImage" : "/interface/title/scyphojelico.png",
+      "hair" : [ 
+	  "0",
+	  "1", "alt color/1",
+	  "2", "alt color/2",
+	  "3", "alt color/3",
+	  "4", "alt color/4",
+	  "5", "alt color/5",
+	  "6", "alt color/6",
+	  "7", "alt color/7",
+	  "8", "alt color/8",
+	  "9", "alt color/9",
+	  "10", "alt color/10",
+	  "11", "alt color/11",
+	  "12", "alt color/12",
+	  "13", "alt color/13",
+	  "14", "alt color/14",
+	  "14b", "14c", "14d",
+	  "15", "alt color/15",
+	  "16", "alt color/16",
+	  "17", "alt color/17",
+	  "18", "alt color/18",
+	  "19", "alt color/19",
+	  "20", "alt color/20",
+	  "alt color/20b",
+	  "alt color/22", "alt color/22b",
+	  "alt color/23", "alt color/23b",
+	  "alt color/24", "alt color/24b", "alt color/24p", "alt color/24h"
+	  ],
+      "shirt" : [ "saturnnullchest", "avianfancyshirt", "floranleafchest" ],
+      "pants" : [ "saturnnullpants" ],
+      "facialHairGroup" : "jelhair",
+      "facialHair" : [  ],
+      "facialMaskGroup" : "",
+      "facialMask" : [  ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/scyphojelmagentaico.png",
+      "characterImage" : "/interface/title/scyphojelico.png",
+      "hair" : [ 
+	  "0",
+	  "1", "alt color/1",
+	  "2", "alt color/2",
+	  "3", "alt color/3",
+	  "4", "alt color/4",
+	  "5", "alt color/5",
+	  "6", "alt color/6",
+	  "7", "alt color/7",
+	  "8", "alt color/8",
+	  "9", "alt color/9",
+	  "10", "alt color/10",
+	  "11", "alt color/11",
+	  "12", "alt color/12",
+	  "13", "alt color/13",
+	  "14", "alt color/14",
+	  "14b", "14c", "14d",
+	  "15", "alt color/15",
+	  "16", "alt color/16",
+	  "17", "alt color/17",
+	  "18", "alt color/18",
+	  "19f", "alt color/19f",
+	  "20", "alt color/20",
+	  "alt color/20b",
+	  "alt color/22", "alt color/22b",
+	  "alt color/23", "alt color/23b",
+	  "alt color/24", "alt color/24b", "alt color/24p", "alt color/24h"
+	  ],
+      "shirt" : [ "saturnnullchest", "avianfancyshirt", "floranleafchest" ],
+      "pants" : [ "saturnnullpants" ],
+      "facialHairGroup" : "jelhair",
+      "facialHair" : [  ],
+      "facialMaskGroup" : "",
+      "facialMask" : [  ]
+    }
+  ],
+  "bodyColor" : [
+    //unused
+	{ "FFFFFF":"FFFFFF"} ],
+
+  "undyColor" : [
+	// Outline/Lightest	 Outline/Light	    MedLight           MedDark            Dark 
+	{ "F2FFF9":"FFE5E5", "D0F9E9":"F9D2D0", "81ECBD":"EC8182", "71DDAC":"DB5C60", "5BCCA0":"CC4550" },					  //1 Red
+	{ "F2FFF9":"FFECE5", "D0F9E9":"F9DCD0", "81ECBD":"EC9B81", "71DDAC":"DB785C", "5BCCA0":"CC5E45" },					  //2 Red Orange
+	{ "F2FFF9":"FFF0E5", "D0F9E9":"F9E3D0", "81ECBD":"ECAD81", "71DDAC":"DB8D5C", "5BCCA0":"CC6D45" },					  //3 Orange
+	{ "F2FFF9":"FFF4E5", "D0F9E9":"F9EAD0", "81ECBD":"ECBF81", "71DDAC":"DBA25C", "5BCCA0":"CC8445" },					  //4 Yell. Orange (ORANGE!!!)
+	{ "F2FFF9":"FFFBE5", "D0F9E9":"F9F4D0", "81ECBD":"ECDA81", "71DDAC":"DBC25C", "5BCCA0":"CCA645" },					  //5 Yellow
+	{ "F2FFF9":"FDFFE5", "D0F9E9":"F4F9D0", "81ECBD":"E3EC81", "71DDAC":"D4DB5C", "5BCCA0":"BACC45" },					  //6 Chartreuse
+	{ "F2FFF9":"F9FFE5", "D0F9E9":"EDF9D0", "81ECBD":"D1EC81", "71DDAC":"BFDB5C", "5BCCA0":"A3CC45" },					  //7 Lime
+	{ "F2FFF9":"EFFFE5", "D0F9E9":"DCF9D0", "81ECBD":"A4EC81", "71DDAC":"8ADB5C", "5BCCA0":"6BCC45" },					  //8 Grass
+	{ "F2FFF9":"E9FFE5", "D0F9E9":"D2F9D0", "81ECBD":"89EC81", "71DDAC":"6ADB5C", "5BCCA0":"49CC45" },					  //9 Green
+	{ "F2FFF9":"E5FFE8", "D0F9E9":"D0F9D8", "81ECBD":"81EC94", "71DDAC":"5CDB6E", "5BCCA0":"45CC63" },					  //10 Mint Green
+	{ "F2FFF9":"E5FFEF", "D0F9E9":"D0F9E2", "81ECBD":"81ECAF", "71DDAC":"5CDB8E", "5BCCA0":"45CC85" },					  //11 Teal
+	{ "F2FFF9":"E5FFF6", "D0F9E9":"D0F9EC", "81ECBD":"81ECCA", "71DDAC":"5CDBAE", "5BCCA0":"45CCA7" },					  //12 Cyan
+	{ "F2FFF9":"E5FFFD", "D0F9E9":"D0F9F6", "81ECBD":"81ECE5", "71DDAC":"5CDBCE", "5BCCA0":"45CCC9" },					  //13 Sky Blue
+	{ "F2FFF9":"E5FBFF", "D0F9E9":"D0F2F9", "81ECBD":"81D8EC", "71DDAC":"5CC8DB", "5BCCA0":"45ADCC" },					  //14 Aqua Blue
+	{ "F2FFF9":"E5F5FF", "D0F9E9":"D0E8F9", "81ECBD":"81BDEC", "71DDAC":"5CA8DB", "5BCCA0":"458BCC" },					  //15 Blue
+	{ "F2FFF9":"E5EFFF", "D0F9E9":"D0DEF9", "81ECBD":"81A2EC", "71DDAC":"5C88DB", "5BCCA0":"456ACC" },					  //16 True Blue
+	{ "F2FFF9":"E5E9FF", "D0F9E9":"D0D4F9", "81ECBD":"8187EC", "71DDAC":"5C68DB", "5BCCA0":"4548CC" },					  //17 Indigo
+	{ "F2FFF9":"E5E5FF", "D0F9E9":"D3D0F9", "81ECBD":"8D81EC", "71DDAC":"655CDB", "5BCCA0":"4547CC" },					  //18 Violet
+	{ "F2FFF9":"ECE5FF", "D0F9E9":"DDD0F9", "81ECBD":"A881EC", "71DDAC":"855CDB", "5BCCA0":"6545CC" },					  //19 Royal Purple
+	{ "F2FFF9":"F3E5FF", "D0F9E9":"E7D0F9", "81ECBD":"C381EC", "71DDAC":"A55CDB", "5BCCA0":"8745CC" },					  //20 Purple
+	{ "F2FFF9":"FAE5FF", "D0F9E9":"F1D0F9", "81ECBD":"DE81EC", "71DDAC":"C55CDB", "5BCCA0":"A945CC" },					  //21 Mag. Purple
+	{ "F2FFF9":"FFE5FE", "D0F9E9":"F9D0F7", "81ECBD":"EC81DF", "71DDAC":"DB5CD1", "5BCCA0":"CB45CC" },					  //22 Magenta
+	{ "F2FFF9":"FFE5F3", "D0F9E9":"F9D0E6", "81ECBD":"EC81B2", "71DDAC":"DB5C9C", "5BCCA0":"CC4595" },					  //23 Red Magenta
+	{ "F2FFF9":"FFE5EA", "D0F9E9":"F9D0D8", "81ECBD":"EC818E", "71DDAC":"DB5C72", "5BCCA0":"CC4568" },					  //24 Magenta Red
+	{ "F2FFF9":"FFFFFF", "D0F9E9":"FAFAFA", "81ECBD":"F2F2F2", "71DDAC":"EBEBEB", "5BCCA0":"D3D3D3", "3F3F3F":"595959" }, //25 Supernova
+	{ "F2FFF9":"C8C8C8", "D0F9E9":"C0C0C0", "81ECBD":"727272", "71DDAC":"5A5A5A", "5BCCA0":"424242", "3F3F3F":"FFFFFF" }, //28 Black
+	{ "F2FFF9":"C8C8C8", "D0F9E9":"C0C0C0", "81ECBD":"404040", "71DDAC":"282828", "5BCCA0":"101010", "3F3F3F":"FFFFFF" }, //29 Black Hole
+	{ "F2FFF9":"C8C8C8", "D0F9E9":"C0C0C0", "81ECBD":"090909", "71DDAC":"000000", "5BCCA0":"000000", "3F3F3F":"FFFFFF" }, //30 Void
+	{ "F2FFF9":"8E30FB", "D0F9E9":"79409B", "81ECBD":"68308A", "71DDAC":"170E3F", "5BCCA0":"050526", "3F3F3F":"F7E46C" }, //31 Cursed
+	{ "F2FFF9":"4CCD8D", "D0F9E9":"38705E", "81ECBD":"245C4A", "71DDAC":"000000", "5BCCA0":"000000", "3F3F3F":"FFFFFF" }, //32 Shine
+	{ "F2FFF9":"F9D9FF", "D0F9E9":"E19CF4", "81ECBD":"AF59D2", "71DDAC":"873AA6", "5BCCA0":"4C1C62", "3F3F3F":"090909" }  //33 Erchius
+  ],
+  "hairColor" : [
+
+	{ "FFF4D1":"FFE5E5", "FFDA84":"F7716C", "F6B919":"E53745"  }, //1 Red
+	{ "FFF4D1":"FFECE5", "FFDA84":"F7946C", "F6B919":"E55737"  }, //2 Red Orange
+	{ "FFF4D1":"FFF0E5", "FFDA84":"F7AB6C", "F6B919":"E56537"  }, //3 Orange
+	{ "FFF4D1":"FFF4E5", "FFDA84":"F7C46C", "F6B919":"E58734"  }, //4 Yell. Orange
+	{ "FFF4D1":"FFFBE5", "FFDA84":"F7E46C", "F6B919":"E5B437"  }, //5 Yellow
+	{ "FFF4D1":"FDFFE5", "FFDA84":"E7F76C", "F6B919":"CEE537"  }, //6 Chartreuse
+	{ "FFF4D1":"F9FFE5", "FFDA84":"D0F76C", "F6B919":"B1E537"  }, //7 Lime
+	{ "FFF4D1":"EFFFE5", "FFDA84":"96F76C", "F6B919":"68E537"  }, //8 Grass
+	{ "FFF4D1":"E9FFE5", "FFDA84":"73F76C", "F6B919":"3FE537"  }, //9 Green
+	{ "FFF4D1":"E5FFE8", "FFDA84":"6CF786", "F6B919":"37E55C"  }, //10 Mint Green
+	{ "FFF4D1":"E5FFEF", "FFDA84":"6CF786", "F6B919":"37E588"  }, //11 Teal
+	{ "FFF4D1":"E5FFF6", "FFDA84":"6CF7C9", "F6B919":"37E5B4"  }, //12 Cyan
+	{ "FFF4D1":"E5FFFD", "FFDA84":"6CF7EB", "F6B919":"37E5DC"  }, //13 Sky Blue
+	{ "FFF4D1":"E5FBFF", "FFDA84":"6CE0F7", "F6B919":"37BFE5"  }, //14 Aqua Blue
+	{ "FFF4D1":"E5F5FF", "FFDA84":"6CBFF7", "F6B919":"3794E5"  }, //15 Blue
+	{ "FFF4D1":"E5EFFF", "FFDA84":"6C9DF7", "F6B919":"3768E5"  }, //16 True Blue
+	{ "FFF4D1":"E5E9FF", "FFDA84":"6C7AF7", "F6B919":"373FE5"  }, //17 Indigo
+	{ "FFF4D1":"E5E5FF", "FFDA84":"766CF7", "F6B919":"373CE5"  }, //18 Violet
+	{ "FFF4D1":"ECE5FF", "FFDA84":"986CF7", "F6B919":"5F37E5"  }, //19 Royal Purple
+	{ "FFF4D1":"F3E5FF", "FFDA84":"B96CF7", "F6B919":"8B37E5"  }, //20 Purple
+	{ "FFF4D1":"FAE5FF", "FFDA84":"DB6CF7", "F6B919":"B637E5"  }, //21 Mag. Purple
+	{ "FFF4D1":"FFE5FE", "FFDA84":"F76CF2", "F6B919":"E237E5"  }, //22 Magenta
+	{ "FFF4D1":"FFE5F3", "FFDA84":"F76CB9", "F6B919":"E5379F"  }, //23 Red Magenta
+	{ "FFF4D1":"FFE5EA", "FFDA84":"F76C88", "F6B919":"E53765"  }, //24 Magenta Red
+	{ "FFF4D1":"FAFAFA", "FFDA84":"F2F2F2", "F6B919":"A6A6A6"  }, //26 Light Grey
+	{ "FFF4D1":"FAFAFA", "FFDA84":"F2F2F2", "F6B919":"747474"  }, //27 Dark Grey
+	{ "FFF4D1":"FAFAFA", "FFDA84":"F2F2F2", "F6B919":"101010"  }, //29 Black Hole
+	{ "FFF4D1":"161616", "FFDA84":"0C0C0C", "F6B919":"000000", "595959" : "3E3E3E" }, //30 Void
+	{ "FFF4D1":"8E30FB", "FFDA84":"79409B", "F6B919":"170E3F" }, //31 Cursed
+	{ "FFF4D1":"F60E96", "FFDA84":"F60E96", "F6B919":"000000" }, //32 Shine
+	{ "FFF4D1":"F9D9FF", "FFDA84":"E19CF4", "F6B919":"AF59D2" }  //33 Erchius
+  ]
+}

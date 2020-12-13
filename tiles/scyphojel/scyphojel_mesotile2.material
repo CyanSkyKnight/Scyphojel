@@ -1,0 +1,26 @@
+{
+  "materialId" : 54741,
+  "materialName" : "scyphojel_mesotile2",
+  "particleColor" : [236, 238, 170, 255],
+  "itemDrop" : "scyphojel_mesotile2",
+
+  "description" : "Living ship hull.",
+  "glitchdescription" : "Observant. This is panelling widely used for ship and station construction.",
+  "florandescription" : "Shiny sssmooth glassss.",
+  "novakiddescription" : "Some thick glass, looks mighty solid.",
+  "shortdescription" : "Mesoglea Slope",
+  "footstepSound" : "/sfx/blocks/footstep_glass.ogg",
+  "health" : 4,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "scyphojel_mesotile2.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 5000,
+    "radiantLight" : [90, 90, 90]
+  }
+}

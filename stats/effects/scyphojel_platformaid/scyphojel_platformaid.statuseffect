@@ -1,0 +1,9 @@
+{
+  "name" : "scyphojel_platformaid",
+  "effectConfig" : {},
+  "defaultDuration" : 3,
+  "animationConfig" : "scyphojel_platformaid.animation",
+  "scripts" : [
+    "scyphojel_platformaid.lua"
+  ]
+}

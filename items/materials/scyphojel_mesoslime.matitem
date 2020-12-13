@@ -1,0 +1,13 @@
+{
+  "itemName" : "scyphojel_mesoslime",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "scyphojel_mesoslime.png",
+  "shortdescription" : "Mesoglea Block",
+  "description" : "Without a core of it's own, living Scyphojel cuttings can be used as building materials. Don't worry! They grow back!",
+  "glitchdescription" : "Observant. This is panelling widely used for ship and station construction.",
+  "florandescription" : "Shiny sssmooth glassss.",
+  "novakiddescription" : "Some thick glass, looks mighty solid.",
+  "materialId" : 54742
+}

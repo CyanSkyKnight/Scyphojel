@@ -1,0 +1,33 @@
+{
+  "projectileName" : "scypojelpolygonsplitter",
+  "physics" : "laser",
+  "bounces" : 0,
+  "damageKindImage" : "icon.png",
+  "image" : "scypojelpolygon.png",
+  "animationCycle" : 1,
+  "frameNumber" : 4,
+  "timeToLive" : 0.001,
+  "power" : 50,
+  "speed" : 50,
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "scypojelpolygon",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.5,
+      "inheritSpeedFactor" : 1
+    },
+    {
+      "action" : "projectile",
+      "type" : "scypojelpolygon2",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.5,
+      "inheritSpeedFactor" : 1
+    }
+  ],
+  "damagePoly" : [ ],
+  "lightColor" : [0, 0, 0],
+  "fullbright" : true,
+  "damageKind" : "plasma"
+}

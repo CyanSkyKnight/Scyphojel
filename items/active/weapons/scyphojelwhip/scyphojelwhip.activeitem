@@ -1,0 +1,43 @@
+{
+  "itemName" : "scyphojelwhip",
+  "price" : 570,
+  "level" : 1,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : ".",
+  "shortdescription" : "Tentacle Whip",
+  "tooltipKind" : "sword",
+  "category" : "whip",
+  "twoHanded" : false,
+  "itemTags" : ["weapon", "melee", "whip", "upgradeableWeapon"],
+  "critChance" : 1,
+  "critBonus" : 1, 
+  "inventoryIcon" : "scyphojelwhip.png",
+  "animation" : "/items/active/weapons/scyphojelwhip/scyphojelwhipcombo.animation",
+  "animationParts" : {
+    "handle": "scyphojelwhip.png",
+    "blade" : "scyphojelwhipFB.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/melee/whip_swing1.ogg" ],
+	  "fire2" : [ "/sfx/melee/whip_impact1.ogg" ]
+    },
+	"lights" : {
+      "glow" : {
+        "color" : [30, 30, 30]
+		}
+	  }
+  },
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "elementalType" : "electric",
+  "primaryAbilityType" : "scyphojelwhipcombo",
+  "primaryAbility" : {
+    "damageConfig" : {
+    "damageSourceKind" : "electricfist"
+	},
+    "fireTime" : 0.625,
+    "baseDps" : 7.5
+  },
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

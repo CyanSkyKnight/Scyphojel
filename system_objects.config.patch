@@ -1,0 +1,29 @@
+[
+{ "op" : "add", "path" : "/scyphojel_voidvillage", "value" :     
+{
+    "warpAction" : "InstanceWorld:scyphojel_voidvillage",
+    "threatLevel" : 1,
+    "skyParameters" : {
+      "seed" : 0,
+      "horizonClouds" : false,
+      "horizonImages" : [ { "left": "/celestial/system/spacestation/stationhorizonleft.png", "right": "/celestial/system/spacestation/stationhorizonright.png" } ]
+    },
+
+    "permanent" : true,
+
+    "moving" : false,
+    "speed" : 5.0,
+    "orbitRange" : [10, 10],
+    "lifeTime" : [0, 0],
+    "parameters" : {
+      "icon" : "/celestial/system/spacestation/scyphojel_spacestationicon.png",
+
+      "displayName" : "Scyphojel Voidvillage",
+      "description" : ".",
+
+      "bookmarkIcon" : "spacestation"
+    }
+  }
+}
+
+]

@@ -1,0 +1,8 @@
+[ 
+{ "op": "add", 
+		"path": "/scriptConfig/chatSounds/scyphojel", 
+		"value": {
+		"male": [ "/sfx/humanoid/scyphojel_talk1.ogg", "/sfx/humanoid/scyphojel_talk2.ogg", "/sfx/humanoid/scyphojel_talk3.ogg" ],
+		"female": [ "/sfx/humanoid/scyphojel_talk1.ogg", "/sfx/humanoid/scyphojel_talk2.ogg", "/sfx/humanoid/scyphojel_talk3.ogg" ]
+} }
+]

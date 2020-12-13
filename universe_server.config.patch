@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/scyphojel",
+		"value" : [
+		    "/ships/scyphojel/scyphojelt0.structure",
+			"/ships/scyphojel/scyphojelt1.structure",
+			"/ships/scyphojel/scyphojelt2.structure",
+			"/ships/scyphojel/scyphojelt3.structure",
+			"/ships/scyphojel/scyphojelt4.structure",
+			"/ships/scyphojel/scyphojelt5.structure",
+			"/ships/scyphojel/scyphojelt6.structure",
+			"/ships/scyphojel/scyphojelt7.structure",
+			"/ships/scyphojel/scyphojelt8.structure"
+		]
+	}
+]

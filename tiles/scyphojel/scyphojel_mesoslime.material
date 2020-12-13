@@ -1,0 +1,25 @@
+{
+  "materialId" : 54742,
+  "materialName" : "scyphojel_mesoslime",
+  "particleColor" : [70, 166, 166, 255],
+  "itemDrop" : "scyphojel_mesoslime",
+  "description" : "Slime blocks that are seemingly alive.",
+  "shortdescription" : "Mesoglea Block",
+  "glitchDescription" : "Disgusted. This is made of squishy flesh.",
+  "floranDescription" : "Sssquishy slime.",
+  "scyphojelDescription" : "Without a core of it's own, living Scyphojel cuttings can be used as building materials. Don't worry! They grow back!",
+  "novakidDescription" : "This is some sorta slime.",
+  "footstepSound" : "/sfx/blocks/footstep_mud.ogg",
+  "health" : 4,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "scyphojel_mesoslime.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 0
+  }
+}
