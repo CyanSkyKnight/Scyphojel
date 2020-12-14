@@ -14,7 +14,7 @@
     "scripts" : ["/items/active/weapons/melee/meleecombo.lua"],
     "class" : "MeleeCombo",
 
-    "comboSteps" : 3,
+    "comboSteps" : 2,
 
     "flashTime" : 0.15,
     "flashDirectives" : "fade=FFFFFFFF=0.15",
@@ -87,7 +87,7 @@
       },
       "wait1" : {
         "duration" : 0.3,
-        "armRotation" : 120,
+        "armRotation" : 175,
         "weaponRotation" : 270,
         "weaponOffset" : [0, 2.25],
         "allowRotate" : true,
@@ -96,7 +96,7 @@
       },
       "windup2" : {
         "duration" : 0.1,
-        "armRotation" : 145,
+        "armRotation" : 175,
         "weaponRotation" : 270,
         "weaponOffset" : [0, 2.25],
         "twoHanded" : false,
@@ -104,9 +104,9 @@
         "allowRotate" : true
       },
       "fire2" : {
-        "duration" : 0.25,
+        "duration" : 0.1,
         "armRotation" : 145,
-		"armAngularVelocity" : -700,
+		"armAngularVelocity" : -2000,
         "weaponRotation" : 270,
         "weaponOffset" : [0, 2.25],
 
