@@ -15,8 +15,7 @@
   "inventoryIcon" : "scyphojelwhip.png",
   "animation" : "/items/active/weapons/scyphojelwhip/scyphojelwhipcombo.animation",
   "animationParts" : {
-    "handle": "scyphojelwhip.png",
-    "blade" : "scyphojelwhipFB.png"
+    "handle": "scyphojelwhip.png"
   },
   "animationCustom" : {
     "sounds" : {
