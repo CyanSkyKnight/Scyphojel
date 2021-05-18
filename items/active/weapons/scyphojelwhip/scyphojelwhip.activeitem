@@ -9,6 +9,7 @@
   "tooltipKind" : "sword",
   "category" : "whip",
   "twoHanded" : false,
+  "handGrip" : "wrap",
   "itemTags" : ["weapon", "melee", "whip", "upgradeableWeapon"],
   "critChance" : 1,
   "critBonus" : 1, 
@@ -19,8 +20,8 @@
   },
   "animationCustom" : {
     "sounds" : {
-      "fire" : [ "/sfx/melee/whip_swing1.ogg" ],
-	  "fire2" : [ "/sfx/melee/whip_impact1.ogg" ]
+      "fire" : [ "/sfx/melee/scyphojel_whip.ogg" ],
+	  "fire2" : [ "/sfx/melee/scyphojel_cutwhip.ogg" ]
     },
 	"lights" : {
       "glow" : {
@@ -28,7 +29,7 @@
 		}
 	  }
   },
-  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua", "/items/active/weapons/neb-colourmatching.lua"],
   "elementalType" : "electric",
   "primaryAbilityType" : "scyphojelwhipcombo",
   "primaryAbility" : {
@@ -36,7 +37,7 @@
     "damageSourceKind" : "electricfist"
 	},
     "fireTime" : 0.625,
-    "baseDps" : 7.5
+    "baseDps" : 6.0
   },
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }

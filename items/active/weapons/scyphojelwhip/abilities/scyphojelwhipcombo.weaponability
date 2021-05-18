@@ -1,11 +1,6 @@
 {
   "animationParts" : { },
   "animationCustom" : {
-    "sounds" : {
-      "fire" : [ "/sfx/melee/whip_swing1.ogg", "/sfx/melee/whip_swing2.ogg", "/sfx/melee/whip_swing3.ogg" ],
-	  "fire2" : [ "/sfx/melee/whip_impact1.ogg", "/sfx/melee/whip_impact2.ogg", "/sfx/melee/whip_impact3.ogg" ],
-      "fire3" : [ "/sfx/melee/whip_swing1.ogg", "/sfx/melee/whip_swing2.ogg", "/sfx/melee/whip_swing3.ogg" ]
-    }
   },
 
   "ability" : {
@@ -21,7 +16,6 @@
 
     "swooshOffsetRegions" : [
       [0, -0.5, 2.5, 1.0],
-      [0, -0.5, 2.5, 1.0],
       [0, -0.5, 2.5, 1.0]
     ],
 
@@ -31,7 +25,7 @@
     "edgeTriggerGrace" : 0.25,
 
     "fireTime" : 0.625,
-    "baseDps" : 7.5,
+    "baseDps" : 7,
 
     "damageConfig" : {
       "damageSourceKind" : "shortsword",
@@ -41,43 +35,39 @@
     },
     "stepDamageConfig" : [
       {
-        "baseDamageFactor" : 0.8,
-        "knockback" : 10
-      },
-      {
-        "baseDamageFactor" : 0.8,
-        "knockback" : 10
-      },
-      {
         "baseDamageFactor" : 1.0,
-        "knockback" : 20
+        "knockback" : 5
+      },
+      {
+        "baseDamageFactor" : 1.5,
+        "knockback" : 40
       }
     ],
 
     "stances" : {
       "idle" : {
-        "armRotation" : -20,
+        "armRotation" : -90,
         "weaponRotation" : -10,
-        "weaponOffset" : [0, 2.25],
+        "weaponOffset" : [0.25, 4],
 
         "allowFlip" : true,
         "allowRotate" : true
       },
       "windup1" : {
-        "duration" : 0.05,
-        "armRotation" : -20,
+        "duration" : 0.1,
+        "armRotation" : 75,
         "weaponRotation" : 270,
-        "weaponOffset" : [0, 2.25],
-
+        "weaponOffset" : [0.25, 4],
+        "twoHanded" : false,
         "allowFlip" : true,
         "allowRotate" : true
       },
       "fire1" : {
         "duration" : 0.4,
-        "armRotation" : -5,
-		"armAngularVelocity" : 400,
+        "armRotation" : 75,
+		"armAngularVelocity" : -400,
         "weaponRotation" : 270,
-        "weaponOffset" : [0, 2.25],
+        "weaponOffset" : [0.25, 4],
 
         "allowRotate" : false,
         "allowFlip" : false,
@@ -87,61 +77,34 @@
       },
       "wait1" : {
         "duration" : 0.3,
-        "armRotation" : 175,
-        "weaponRotation" : 270,
-        "weaponOffset" : [0, 2.25],
+        "armRotation" : -90,
+        "weaponRotation" : -30,
+        "weaponOffset" : [0.25, 4],
         "allowRotate" : true,
         "allowFlip" : true,
         "twoHanded" : false
       },
       "windup2" : {
-        "duration" : 0.1,
-        "armRotation" : 175,
-        "weaponRotation" : 270,
-        "weaponOffset" : [0, 2.25],
+        "duration" : 0.3,
+        "armRotation" : -90,
+        "weaponRotation" : -10,
+		"armAngularVelocity" : 800,
+        "weaponOffset" : [0.25, 4],
         "twoHanded" : false,
         "allowFlip" : true,
         "allowRotate" : true
       },
       "fire2" : {
-        "duration" : 0.1,
-        "armRotation" : 145,
-		"armAngularVelocity" : -2000,
-        "weaponRotation" : 270,
-        "weaponOffset" : [0, 2.25],
+        "duration" : 0.3,
+        "armRotation" : 0,
+        "weaponRotation" : -90,
+        "weaponOffset" : [0.25, 4],
 
         "allowRotate" : false,
         "allowFlip" : false,
 
         "frontArmFrame" : "rotation",
         "backArmFrame" : "rotation"
-      },
-      "wait2" : {
-        "duration" : 0.3,
-        "armRotation" : -135,
-        "weaponRotation" : 40,
-        "weaponOffset" : [0, 2.25],
-        "allowRotate" : true,
-        "allowFlip" : true,
-        "twoHanded" : false
-      },
-      "windup3" : {
-        "duration" : 0.1,
-        "armRotation" : -135,
-        "weaponRotation" : 40,
-        "weaponOffset" : [0, 2.25],
-        "twoHanded" : false,
-        "allowFlip" : true,
-        "allowRotate" : true
-      },
-      "fire3" : {
-        "duration" : 0.3,
-        "armRotation" : 0,
-        "weaponRotation" : -90,
-        "weaponOffset" : [0, 2.25],
-        "twoHanded" : false,
-        "allowFlip" : true,
-        "allowRotate" : true
       }
     }
   }
