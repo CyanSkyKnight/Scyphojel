@@ -13,7 +13,7 @@
           "Hello friend, jol.",
           "Nice to make your acquaintance, jol.",
           "Hi, jol.",
-		  "Hiya, jol.",
+		 "Hiya, jol.",
           "Hello, jol."
         ]
       }
@@ -25,8 +25,8 @@
       "value": {
 	"generic":[
 		"I am just an animal, a strange anemone, jol!",
-		"I'm not venomous! I use electricity to sting!",
-		"When you were a polyp, what side of the colony did you attach to?",
+		"I'm not venomous! I use electricity to sting, jol!",
+		"When you were a polyp, what side of the colony did you attach to, jol?",
 		"Let's shake hands, jol!",
 		"Look at me! I got no bones, jol!",
 		"",
@@ -41,7 +41,7 @@
 		"Where did you come from, jol?"
 		],
 	"glitch":[
-		"Do you need recharging, jol?",
+		"Do you need recharging, jol? Just shake my hand, jol!",
 		"Metal, jol?",
 		"Where did you come from, jol?"
 		],

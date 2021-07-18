@@ -1,0 +1,33 @@
+{
+  "objectName" : "scyphojelmannequin",
+  "colonyTags" : ["scyphojel"],
+  "printable" : false,
+  "rarity" : "Common",
+  "category" : "other",
+  "price" : 500,
+  "description" : "A mannequin that fits Scyphojel clothes and armor.",
+  "shortdescription" : "Scyphojel Mannequin",
+  "race" : "generic",
+  "inventoryIcon" : "scyphojelmannequinicon.png",
+  
+  "orientations" : [
+    {
+      "dualImage" : "scyphojelmannequin.png",
+      "imagePosition" : [-21, 0],
+      "spaces" : [[-1, 0], [-1, 1], [-1, 2], [-1, 3], [0, 0], [0, 1], [0, 2], [0, 3]],
+      "anchors" : [ "bottom" ]
+    }
+  ],
+  "animation" : "scyphojelmannequin.animation",
+  "animationPosition" : [-21, 0],
+  "health" : 1.5,
+  "objectType" : "container",
+  "openSounds" : [ "/sfx/objects/mannequin_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/mannequin_close.ogg" ],
+  "slotCount" : 4,
+  "uiConfig" : "/interface/scripted/mannequin/mannequingui.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600,
+  "scripts" : [ "/objects/scyphojel/scyphojelmannequin/scyphojelmannequin.lua" ],
+  "scriptDelta" : 5
+}
