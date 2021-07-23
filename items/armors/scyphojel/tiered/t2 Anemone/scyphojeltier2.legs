@@ -39,8 +39,8 @@
   "itemTags" : [ "tier2armour" ],
 
   "colorOptions" : [
-   // Default
-	{ "ffca8a" : "5B6779", "e0975c" : "4B586B", "a85636" : "2F3C4B", "6f2919" : "202C35" },
+	//SATURNIAN LIGHT PINK 																	25
+	{ "ffca8a" : "FFC6F0", "e0975c" : "E5A7D9", "a85636" : "BA78B3", "6f2919" : "915790" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

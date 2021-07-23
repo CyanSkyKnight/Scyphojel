@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "chestarmour",
-  "description" : "",
-  "shortdescription" : "Crown Jelly Chestguard",
+  "description" : "\"KEEEEEEVIN!\"",
+  "shortdescription" : "Crown Jelly Cloak",
   "tooltipKind" : "armor",
 
   "maleFrames" : {
@@ -48,8 +48,8 @@
   "itemTags" : [ "tier3armour" ],
 
   "colorOptions" : [
-   // Default
-	{ "ffca8a" : "5B6779", "e0975c" : "4B586B", "a85636" : "2F3C4B", "6f2919" : "202C35" },
+    // YELLOW
+    { "ffca8a" : "ffffa7", "e0975c" : "e2c344", "a85636" : "a46e06", "6f2919" : "642f00" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

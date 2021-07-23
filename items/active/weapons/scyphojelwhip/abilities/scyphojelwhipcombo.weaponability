@@ -48,7 +48,7 @@
       "idle" : {
         "armRotation" : -90,
         "weaponRotation" : -10,
-        "weaponOffset" : [0.25, 4],
+        "weaponOffset" : [0.25, 4.8],
 
         "allowFlip" : true,
         "allowRotate" : true
@@ -57,7 +57,7 @@
         "duration" : 0.1,
         "armRotation" : 75,
         "weaponRotation" : 270,
-        "weaponOffset" : [0.25, 4],
+        "weaponOffset" : [0.25, 4.8],
         "twoHanded" : false,
         "allowFlip" : true,
         "allowRotate" : true
@@ -67,7 +67,7 @@
         "armRotation" : 75,
 		"armAngularVelocity" : -400,
         "weaponRotation" : 270,
-        "weaponOffset" : [0.25, 4],
+        "weaponOffset" : [0.25, 4.8],
 
         "allowRotate" : false,
         "allowFlip" : false,
@@ -79,7 +79,7 @@
         "duration" : 0.3,
         "armRotation" : -90,
         "weaponRotation" : -30,
-        "weaponOffset" : [0.25, 4],
+        "weaponOffset" : [0.25, 4.8],
         "allowRotate" : true,
         "allowFlip" : true,
         "twoHanded" : false
@@ -89,7 +89,7 @@
         "armRotation" : -90,
         "weaponRotation" : -10,
 		"armAngularVelocity" : 800,
-        "weaponOffset" : [0.25, 4],
+        "weaponOffset" : [0.25, 4.8],
         "twoHanded" : false,
         "allowFlip" : true,
         "allowRotate" : true
@@ -98,7 +98,7 @@
         "duration" : 0.3,
         "armRotation" : 0,
         "weaponRotation" : -90,
-        "weaponOffset" : [0.25, 4],
+        "weaponOffset" : [0.25, 4.8],
 
         "allowRotate" : false,
         "allowFlip" : false,

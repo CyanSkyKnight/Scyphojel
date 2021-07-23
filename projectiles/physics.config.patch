@@ -1,0 +1,17 @@
+[
+{ "op" : "add", "path" : "/scyphojelbubblegun", "value" :     
+{
+    "gravityMultiplier" : -0.3,
+    "bounceFactor" : 0.0,
+    "maxMovementPerStep" : 0.4,
+
+    "collisionPoly" : [ [-0.25, -0.25], [0.25, -0.25], [0.25, 0.25], [-0.25, 0.25] ],
+    "ignorePlatformCollision" : true,
+
+    "airFriction" : 5.0,
+    "liquidFriction" : 5.0,
+    "groundFriction" : 15.0,
+    "maximumCorrection" : 0.75
+}
+}
+]

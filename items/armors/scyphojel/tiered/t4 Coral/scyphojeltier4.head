@@ -40,8 +40,8 @@
   "itemTags" : [ "tier4armour" ],
 
   "colorOptions" : [
-    // GREY BLUE
-    { "ffca8a" : "9da8af", "e0975c" : "676f83", "a85636" : "3d3d51", "6f2919" : "24232f" },
+	//SATURNIAN CYAN 16
+	{ "ffca8a" : "8EE5DF", "e0975c" : "4FACB2", "a85636" : "30636C", "6f2919" : "233C43" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

@@ -40,8 +40,8 @@
   "itemTags" : [ "tier3armour" ],
 
   "colorOptions" : [
-   // Default
-	{ "ffca8a" : "5B6779", "e0975c" : "4B586B", "a85636" : "2F3C4B", "6f2919" : "202C35" },
+	//SATURNIAN MOON TEAL 																	21
+	{ "ffca8a" : "57D0A5", "e0975c" : "3CBC98", "a85636" : "287F6E", "6f2919" : "1D5E56" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
