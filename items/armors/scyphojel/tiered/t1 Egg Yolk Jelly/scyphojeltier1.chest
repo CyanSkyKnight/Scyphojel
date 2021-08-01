@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestarmour",
-  "description" : "This armor's protection isn't all it's cracked up to be.",
+  "description" : "\n^yellow;Cotylorhiza tuberculata^reset;",
   "shortdescription" : "Egg Yolk Chestguard",
   "tooltipKind" : "armor",
 

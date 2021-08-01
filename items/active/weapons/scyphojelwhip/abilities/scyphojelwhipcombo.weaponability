@@ -40,7 +40,7 @@
       },
       {
         "baseDamageFactor" : 1.5,
-        "knockback" : 40
+        "knockback" : 15
       }
     ],
 

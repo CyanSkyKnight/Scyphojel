@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "headarmour",
-  "description" : "",
+  "description" : "This armor's protection isn't all it's cracked up to be.\n^yellow;Phacellophora camtschatica^reset;",
   "shortdescription" : "Egg Yolk Hat",
   "tooltipKind" : "armor",
 

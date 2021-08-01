@@ -5,7 +5,7 @@
   "category" : "door",
   "price" : 125,
   "description" : "Generates a bubble-like forcefield as a hatch. Has questionable safety.",
-  "shortdescription" : "Purple Bubble Hatch",
+  "shortdescription" : "Pink Bubble Hatch",
   "race" : "scyphojel",
   "apexDescription" : "A forcefield hatch.",
   "avianDescription" : "A spaceship hatch.",
@@ -14,7 +14,7 @@
   "humanDescription" : "This looks like something out of a sci-fi movie.",
   "hylotlDescription" : "A rather bright hatch.",
   "novakidDescription" : "A hatch?",
-  "scyphojelDescription" : "A bubble hatch. If I press the center, the bubble will pop.",
+  "scyphojelDescription" : "Some of our friends learned how our doors work, and made their own using light instead of gel, jol.",
   
   "inventoryIcon" : "scyphojelshiphatchpurpleicon.png",
   

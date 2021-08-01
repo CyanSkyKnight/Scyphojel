@@ -5,7 +5,7 @@
   "category" : "door",
   "price" : 125,
   "description" : "Generates a bubble-like forcefield. The center can be pressed to open the door.",
-  "shortdescription" : "Purple Bubble Door",
+  "shortdescription" : "Pink Bubble Door",
   "race" : "scyphojel",
   "apexDescription" : "A forcefield door.",
   "avianDescription" : "A spaceship door.",
@@ -14,7 +14,7 @@
   "humanDescription" : "This looks like something out of a sci-fi movie.",
   "hylotlDescription" : "The design of this door pleases me.",
   "novakidDescription" : "A door?",
-  "scyphojelDescription" : "It's a bubble door. If I press the center, the bubble will pop.",
+  "scyphojelDescription" : "Some of our friends learned how our doors work, and made their own using light instead of gel, jol.",
   
   "inventoryIcon" : "scyphojelshipdoorpurpleicon.png",
   "lightColor" : [184, 96, 234],
