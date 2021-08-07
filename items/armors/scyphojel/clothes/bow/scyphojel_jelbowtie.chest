@@ -24,29 +24,76 @@
 
 
   "colorOptions" : [
-    // YELLOW
-    { "ffca8a" : "ffffa7EE", "e0975c" : "e2c34466", "a85636" : "a46e06EE", "6f2919" : "642f00EE" },
+	//SATURNIAN MAROON 12
+	{ "ffca8a" : "8C5357FE", "e0975c" : "804247FE", "a85636" : "5D2730FE", "6f2919" : "411A24FE" },
     // BLACK
-    { "ffca8a" : "838383EE", "e0975c" : "55555566", "a85636" : "383838EE", "6f2919" : "151515EE" },
+    { "ffca8a" : "838383FE", "e0975c" : "555555FE", "a85636" : "383838FE", "6f2919" : "151515FE" },
     // GREY
-    { "ffca8a" : "b5b5b5EE", "e0975c" : "80808066", "a85636" : "555555EE", "6f2919" : "303030EE" },
+    { "ffca8a" : "b5b5b5FE", "e0975c" : "808080FE", "a85636" : "555555FE", "6f2919" : "303030FE" },
     // WHITE
-    { "ffca8a" : "e6e6e6EE", "e0975c" : "b6b6b666", "a85636" : "7b7b7bEE", "6f2919" : "373737EE" },
+    { "ffca8a" : "e6e6e6FE", "e0975c" : "b6b6b6FE", "a85636" : "7b7b7bFE", "6f2919" : "373737FE" },
     // RED
-    { "ffca8a" : "f4988cEE", "e0975c" : "d93a3a66", "a85636" : "932625EE", "6f2919" : "601119EE" },
+    { "ffca8a" : "f4988cFE", "e0975c" : "d93a3aFE", "a85636" : "932625FE", "6f2919" : "601119FE" },
     // ORANGE
-    { "ffca8a" : "ffd495EE", "e0975c" : "ea993166", "a85636" : "af4e00EE", "6f2919" : "6e2900EE" },
+    { "ffca8a" : "ffd495FE", "e0975c" : "ea9931FE", "a85636" : "af4e00FE", "6f2919" : "6e2900FE" },
     // YELLOW
-    { "ffca8a" : "ffffa7EE", "e0975c" : "e2c34466", "a85636" : "a46e06EE", "6f2919" : "642f00EE" },
+    { "ffca8a" : "ffffa7FE", "e0975c" : "e2c344FE", "a85636" : "a46e06FE", "6f2919" : "642f00FE" },
     // GREEN
-    { "ffca8a" : "b2e89dEE", "e0975c" : "51bd3b66", "a85636" : "247824EE", "6f2919" : "144216EE" },
+    { "ffca8a" : "b2e89dFE", "e0975c" : "51bd3bFE", "a85636" : "247824FE", "6f2919" : "144216FE" },
     // BLUE
-    { "ffca8a" : "96cbe7EE", "e0975c" : "5588d466", "a85636" : "344495EE", "6f2919" : "1a1c51EE" },
+    { "ffca8a" : "96cbe7FE", "e0975c" : "5588d4FE", "a85636" : "344495FE", "6f2919" : "1a1c51FE" },
     // PURPLE
-    { "ffca8a" : "d29ce7EE", "e0975c" : "a451c466", "a85636" : "6a2284EE", "6f2919" : "320c40EE" },
+    { "ffca8a" : "d29ce7FE", "e0975c" : "a451c4FE", "a85636" : "6a2284FE", "6f2919" : "320c40FE" },
     // PINK
-    { "ffca8a" : "eab3dbEE", "e0975c" : "d35eae66", "a85636" : "97276dEE", "6f2919" : "59163fEE" },
+    { "ffca8a" : "eab3dbFE", "e0975c" : "d35eaeFE", "a85636" : "97276dFE", "6f2919" : "59163fFE" },
     // BROWN
-    { "ffca8a" : "ccae7cEE", "e0975c" : "a4784466", "a85636" : "754c23EE", "6f2919" : "472b13EE" }
+    { "ffca8a" : "ccae7cFE", "e0975c" : "a47844FE", "a85636" : "754c23FE", "6f2919" : "472b13FE" },
+	
+	//SATURNIAN MAROON 12
+	{ "ffca8a" : "8C5357FE", "e0975c" : "804247FE", "a85636" : "5D2730FE", "6f2919" : "411A24FE" },
+	//SATURNIAN TAN 13
+	{ "ffca8a" : "E7DFBDFE", "e0975c" : "BCAD80FE", "a85636" : "8D7B58FE", "6f2919" : "5D4F34FE" },
+	//SATURNIAN LIME 14
+	{ "ffca8a" : "C2CC6AFE", "e0975c" : "9BBA3DFE", "a85636" : "63822EFE", "6f2919" : "32491AFE" },
+	//SATURNIAN GREEN 15
+	{ "ffca8a" : "6CA563FE", "e0975c" : "3F6B38FE", "a85636" : "284223FE", "6f2919" : "0E2809FE" },
+	//SATURNIAN CYAN 16
+	{ "ffca8a" : "8EE5DFFE", "e0975c" : "4FACB2FE", "a85636" : "30636CFE", "6f2919" : "233C43FE" },
+	//SATURNIAN INDIGO 17
+	{ "ffca8a" : "908BD3FE", "e0975c" : "564FB5FE", "a85636" : "31357CFE", "6f2919" : "192247FE" },
+	//SATURNIAN COOL GREY 18
+	{ "ffca8a" : "5B6779FE", "e0975c" : "4B586BFE", "a85636" : "2F3C4BFE", "6f2919" : "202C35FE" },
+	//SATURNIAN WARM GREY 19
+	{ "ffca8a" : "706460FE", "e0975c" : "615350FE", "a85636" : "433634FE", "6f2919" : "2F2424FE" },
+	
+	//1.1 Dyes:
+	//SATURNIAN SUN YELLOW 		  															20 
+	{ "ffca8a" : "D8AB43FE", "e0975c" : "C88B28FE", "a85636" : "8D581CFE", "6f2919" : "663B14FE" },
+	//SATURNIAN MOON TEAL 																	21
+	{ "ffca8a" : "57D0A5FE", "e0975c" : "3CBC98FE", "a85636" : "287F6EFE", "6f2919" : "1D5E56FE" },
+	
+	
+	
+	//1.2 Dyes:
+	//SATURNIAN REGAL MOTH BLUE 															22
+	{ "ffca8a" : "409ADAFE", "e0975c" : "337FCCFE", "a85636" : "1F4B9EFE", "6f2919" : "112D77FE" },
+	//SATURNIAN LUNA MOTH GREEN 															23
+	{ "ffca8a" : "A3EC99FE", "e0975c" : "7BD579FE", "a85636" : "459E54FE", "6f2919" : "286839FE" },
+	//SATURNIAN IO PURPLE 																	24
+    { "ffca8a" : "A781D6FE", "e0975c" : "7F61B7FE", "a85636" : "5C4996FE", "6f2919" : "39306DFE" },
+	
+	//SATURNIAN LIGHT PINK 																	25
+	{ "ffca8a" : "FFC6F0FE", "e0975c" : "E5A7D9FE", "a85636" : "BA78B3FE", "6f2919" : "915790FE" },
+	//SATURNIAN VENO PURPLE DYE 															26
+	{ "ffca8a" : "DEC6FFFE", "e0975c" : "BCA7E5FE", "a85636" : "8F80BCFE", "6f2919" : "635A93FE" },
+	//SATURNIAN SNOW  																		27
+	{ "ffca8a" : "F0F0F0FE", "e0975c" : "E1E1E1FE", "a85636" : "B9B9B9FE", "6f2919" : "8D8D8DFE" },
+	//SATURNIAN MIDNIGHT 																	28
+	{ "ffca8a" : "232323FE", "e0975c" : "131313FE", "a85636" : "040404FE", "6f2919" : "020202" },
+	//SATURNIAN EVOLIGHT 																	29
+	{ "ffca8a" : "FFFEF2FE", "e0975c" : "F9F1BBFE", "a85636" : "EDD289FE", "6f2919" : "D3AC6EFE" },
+	
+	//Dummy dye because the last on the list doesn't show on mannequins for some reason
+	{ "ffca8a" : "232323", "e0975c" : "131313", "a85636" : "040404", "6f2919" : "020202" }
   ]
 }

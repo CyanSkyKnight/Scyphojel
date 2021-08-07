@@ -24,7 +24,7 @@
   },   
   "nameGen" : [ "/species/scyphojel_namegen.config:names", "/species/scyphojel_namegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/scyphojel_hurt2.ogg", "/sfx/humanoid/scyphojel_hurt2.ogg" ],
-  "charGenTextLabels" : [ "^#5f5f5f;Jellyness (max)^reset;", "Bell/Antennae", "Coat", "Outfit", "Mesoglea Color", "Alt Color", "Coat Color", "Outfit Color", "SCYPHOJEL", "Personality" ],
+  "charGenTextLabels" : [ "^#5f5f5f;Jellyness (max)^reset;", "Bell/Antennae", "Accessory", "", "Mesoglea Color", "Alt Color", "Accessory Color", "", "SCYPHOJEL", "Personality" ],
   "skull" : "/humanoid/scyphojel/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
   "defaultBlueprints" : {
@@ -127,8 +127,8 @@
 	  "alt color/23", "alt color/23b",
 	  "alt color/24", "alt color/24b", "alt color/24p", "alt color/24h"
 	  ],
-      "shirt" : [ "saturnnullchest", "avianfancyshirt", "floranleafchest" ],
-      "pants" : [ "saturnnullpants" ],
+      "shirt" : [ "scyphojel_invischest", "avianfancyshirt", "scyphojel_jelbowtie" ],
+      "pants" : [ "scyphojel_invispants" ],
       "facialHairGroup" : "jelhair",
       "facialHair" : [  ],
       "facialMaskGroup" : "",
@@ -166,8 +166,8 @@
 	  "alt color/23", "alt color/23b",
 	  "alt color/24", "alt color/24b", "alt color/24p", "alt color/24h"
 	  ],
-      "shirt" : [ "saturnnullchest", "avianfancyshirt", "floranleafchest" ],
-      "pants" : [ "saturnnullpants" ],
+      "shirt" : [ "scyphojel_invischest", "avianfancyshirt", "scyphojel_jelbowtie" ],
+      "pants" : [ "scyphojel_invispants" ],
       "facialHairGroup" : "jelhair",
       "facialHair" : [  ],
       "facialMaskGroup" : "",
