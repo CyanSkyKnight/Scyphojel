@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "headarmour",
-  "description" : "Armor designed after a distant relative of the Scyphojel.\n^yellow;Class Anthozoa^reset;",
+  "description" : "Living armor made from a symbiosis of space coral and algae. \n^yellow;Class Anthozoa^reset;",
   "shortdescription" : "Coral Helm",
   "tooltipKind" : "armor",
 
@@ -40,8 +40,8 @@
   "itemTags" : [ "tier4armour" ],
 
   "colorOptions" : [
-	//SATURNIAN CYAN 16
-	{ "ffca8a" : "8EE5DFFE", "e0975c" : "4FACB2FE", "a85636" : "30636CFE", "6f2919" : "233C43FE" },
+	//SATURNIAN IO PURPLE 																	24
+    { "ffca8a" : "A781D6FE", "e0975c" : "7F61B7FE", "a85636" : "5C4996FE", "6f2919" : "39306DFE" },
     // BLACK
     { "ffca8a" : "838383FE", "e0975c" : "555555FE", "a85636" : "383838FE", "6f2919" : "151515FE" },
     // GREY

@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "headarmour",
-  "description" : "Armor designed after a distant relative of the Scyphojel. Their green fluorescent protein is highly useful for biological studies. \n^yellow;Aequorea victoria^reset;",
+  "description" : "Designed after a distant relative of the Scyphojel. Their fluorescent protein is highly useful for biological studies. ^yellow;Aequorea victoria^reset;",
   "shortdescription" : "Crystal Jelly Helm",
   "tooltipKind" : "armor",
 

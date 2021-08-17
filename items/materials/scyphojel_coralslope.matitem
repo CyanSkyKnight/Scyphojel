@@ -1,13 +1,13 @@
 {
-  "itemName" : "scyphojel_mesoslime",
+  "itemName" : "scyphojel_coralslope",
   "price" : 0,
   "category" : "block",
   "rarity" : "Common",
-  "inventoryIcon" : "scyphojel_mesoslime.png",
-  "shortdescription" : "Mesoglea Block",
-  "description" : "Living Scyphojel cuttings can be combined with algae to be used as building materials. Don't worry! They grow back!",
+  "inventoryIcon" : "scyphojel_mesotile3.png",
+  "shortdescription" : "Coranthellite Slope",
+  "description" : "A rocky, living material made of coral, and Scyphojel jel. Don't worry, the jel grows back.",
   "glitchdescription" : "Observant. This is panelling widely used for ship and station construction.",
   "florandescription" : "Shiny sssmooth glassss.",
   "novakiddescription" : "Some thick glass, looks mighty solid.",
-  "materialId" : 54742
+  "materialId" : 54743
 }
