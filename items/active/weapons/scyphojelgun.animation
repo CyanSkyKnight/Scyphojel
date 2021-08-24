@@ -28,7 +28,8 @@
           "centered" : true,
           "image" : "<partImage><paletteSwaps><skinColour><eyeColour>",
           "offset" : [0, 0], // x offset is set dynamically
-          "transformationGroups" : ["weapon"]
+          "transformationGroups" : ["weapon"],
+		  "fullbright" : true
         }
       },
       "middleFullbright" : {

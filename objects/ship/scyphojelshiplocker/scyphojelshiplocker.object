@@ -7,7 +7,7 @@
   "tooltipKind" : "container",
   "category" : "storage",
   "description" : "A locker. Store some stuff, why don't you?",
-  "shortdescription" : "Ship Locker",
+  "shortdescription" : "Scyphojel Locker",
   "race" : "scyphojel",
   "lightColor" : [61, 88, 102],
   "apexDescription" : "I wonder if there are any secrets inside this locker?",

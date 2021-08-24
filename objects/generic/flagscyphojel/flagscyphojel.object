@@ -8,7 +8,7 @@
   "price" : 70,
   "radioMessagesOnPickup" : [ "pickupflag" ],
   
-  "description" : "The flag of the Protectorate. Use ^green;[E]^white; to bookmark a teleportation location.",
+  "description" : "The flag of the Scyphojel. Use ^green;[E]^white; to bookmark a teleportation location.",
   "shortdescription" : "Scyphojel Flag",
   "race" : "scyphojel",
   "apexDescription" : "A Scyphojel flag. I can use this as a waypoint for teleportation.",
@@ -23,12 +23,11 @@
   "inventoryIcon" : "flagscyphojelicon.png",
   "orientations" : [
     {
-      "image" : "flagscyphojel.png:<color>.<frame>",
-      "flipImages" : true,
+      "image" : "flagscyphojelleft.png:<color>.<frame>",
       "direction" : "left",
       "imagePosition" : [-17, 0],
       "frames" : 6,
-      "animationCycle" : 1.0,
+      "animationCycle" : 3.0,
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     },
@@ -37,7 +36,7 @@
       "direction" : "right",
       "imagePosition" : [1, 0],
       "frames" : 6,
-      "animationCycle" : 1.0,
+      "animationCycle" : 3.0,
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     }

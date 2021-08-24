@@ -7,9 +7,9 @@
         "default": [
           "Hellooo! Jol!",
           "Hey, jol.",
-          "Welcome!",
-          "Nice to meet you.",
-          "Oh! Hello!",
+          "Welcome, jol!",
+          "Nice to meet you. Jol.",
+          "Oh! Hello! Jol.",
           "Hello friend, jol.",
           "Nice to make your acquaintance, jol.",
           "Hi, jol.",
@@ -29,7 +29,7 @@
 		"When you were a polyp, what side of the colony did you attach to, jol?",
 		"Let's shake hands, jol!",
 		"Look at me! I got no bones, jol!",
-		"",
+		"The galaxy is vast and full of wonders, jol!",
 		"",
 		"Jol!",
 		"Jol.",
@@ -42,11 +42,12 @@
 		],
 	"glitch":[
 		"Do you need recharging, jol? Just shake my hand, jol!",
+		"Do you have a creator, jol? We'd like to meet them too, jol!",
 		"Metal, jol?",
 		"Where did you come from, jol?"
 		],
 	"hylotl":[
-		"Some say Jel used to live in water before. Then everything started flying, jol!"
+		"Some say we used to live in water before, jol."
 		],
 	"scyphojel":[
 		"How many lives did you go through, jol?",

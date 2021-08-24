@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 3 },
+    { "item" : "copperbar", "count" : 1 }
+  ],
+  "output" : { "item" : "scyphojelwhip", "data" : { "inventoryIcon" : "scyphojelwhipicon2.png", "level" : 2, "shortdescription" : "Tungsten Whip Bracelet" }, "count" : 1 },
+  "groups" : [ "craftinganvil", "weapons", "melee", "armory1", "all" ]
+}

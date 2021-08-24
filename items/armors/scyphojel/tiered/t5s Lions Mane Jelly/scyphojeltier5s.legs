@@ -6,7 +6,7 @@
   "rarity" : "Rare",
   "category" : "legarmour",
   "description" : "Thankfully, you don't have as many limbs as a Lion's Mane. Pants must be expensive for them.",
-  "shortdescription" : "Lion's Mane Skirt",
+  "shortdescription" : "Lion's Mane Pants",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pants.png",

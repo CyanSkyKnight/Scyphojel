@@ -24,7 +24,7 @@
   "hylotlDescription" : "The design is very basic, but it's a real historical artifact.",
   "novakidDescription" : "Wonder if there's any card games on this ol' machine.",
 
-  "inventoryIcon" : "officecomputericon.png",
+  "inventoryIcon" : "scyphojelcomputericon.png",
   "orientations" : [
     {
       "image" : "scyphojelcomputer.png:<color>.on",

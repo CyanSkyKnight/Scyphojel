@@ -72,21 +72,21 @@
             },
             "fire" : {
               "properties" : {
-                "image" : "/items/active/weapons/scyphojelwhip/swoosh/<elementalType>swoosh.png:<frame><skinColour><eyeColour>",
+                "image" : "/items/active/weapons/scyphojelwhip/swoosh/swoosh.png:<frame><skinColour><eyeColour>",
                 "offset" : [0.25, 0.125],
                 "damageArea" : [[-3, 1], [6, 1], [4, -5], [-3, -1]]
               }
             },
             "fire2" : {
               "properties" : {
-                "image" : "/items/active/weapons/scyphojelwhip/swoosh/<elementalType>strike.png:<frame><skinColour><eyeColour>",
+                "image" : "/items/active/weapons/scyphojelwhip/swoosh/strike.png:<frame><skinColour><eyeColour>",
                 "offset" : [0.25, 0.125],
                 "damageArea" : [[-3, 1], [6, 1], [6, -1], [-3, -1]]
               }
             },
             "fire3" : {
               "properties" : {
-                "image" : "/items/active/weapons/scyphojelwhip/swoosh/<elementalType>swoosh.png:<frame><skinColour><eyeColour>",
+                "image" : "/items/active/weapons/scyphojelwhip/swoosh/swoosh.png:<frame><skinColour><eyeColour>",
                 "offset" : [0.25, 0.125],
                 "damageArea" : [[-3, 1], [3, 1], [3, -1], [-3, -1]]
               }
