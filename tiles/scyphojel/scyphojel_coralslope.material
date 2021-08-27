@@ -4,11 +4,11 @@
   "particleColor" : [236, 238, 170, 255],
   "itemDrop" : "scyphojel_coralslope",
 
-  "description" : "A rocky, living material made of coral, and Scyphojel jel. Don't worry, the jel grows back.",
+  "description" : "A rocky, living material made of space coral and algae.",
   "glitchdescription" : "Observant. This is panelling widely used for ship and station construction.",
   "florandescription" : "Shiny sssmooth glassss.",
   "novakiddescription" : "Some thick glass, looks mighty solid.",
-  "shortdescription" : "Coranthellite Slope",
+  "shortdescription" : "Coranthlite Slope",
   "footstepSound" : "/sfx/blocks/footstep_glass.ogg",
   "health" : 4,
   "category" : "materials",
