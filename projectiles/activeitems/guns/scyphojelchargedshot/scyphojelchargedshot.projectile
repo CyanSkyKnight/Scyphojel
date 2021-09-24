@@ -1,0 +1,27 @@
+{
+  "projectileName" : "scyphojelchargedshot",
+  "physics" : "laser",
+  "bounces" : 0,
+  "pointLight" : true,
+  "timeToLive" : 3,
+  "image" : "scyphojelchargedshot.png",
+  "damageKindImage" : "icon.png",
+  "speed" : 25,
+  "piercing" : false,
+  "fullbright" : true,
+  "animationCycle" : 3,
+  "lightColor" : [159, 151, 7],
+  "damagePoly" : [ [-6.5, 0], [-5, -5], [0, -6.5], [5, -5], [6.5, 0], [5, 5], [0, 6.5], [-5, 5] ],
+  "frameNumber" : 25,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/globeexplosions/yellowglobeexplosion/yellowglobeexplosion.config"
+    }
+  ],
+  "power" : 50,
+
+  "persistentAudio" : "/sfx/projectiles/raygun_wobble_loop2.ogg",
+
+  "damageKind" : "plasma"
+}

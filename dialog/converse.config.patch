@@ -5,16 +5,16 @@
       "path": "/greeting/scyphojel",
       "value": {
         "default": [
-          "Hellooo! Jol!",
-          "Hey, jol.",
-          "Welcome, jol!",
-          "Nice to meet you. Jol.",
-          "Oh! Hello! Jol.",
-          "Hello friend, jol.",
-          "Nice to make your acquaintance, jol.",
-          "Hi, jol.",
-		 "Hiya, jol.",
-          "Hello, jol."
+		"Hellooo! Jol!",
+		"Hey, jol.",
+		"Welcome, jol!",
+		"Nice to meet you. Jol.",
+		"Oh! Hello! Jol.",
+		"Hello friend, jol.",
+		"Nice to make your acquaintance, jol.",
+		"Hi, jol.",
+		"Hiya, jol.",
+		"Hello, jol."
         ]
       }
     },
@@ -24,46 +24,54 @@
       "path": "/converse/scyphojel",
       "value": {
 	"generic":[
+		"Jol!",
+		"Jol.",
+		"Jol?",
 		"I am just an animal, a strange anemone, jol!",
 		"I'm not venomous! I use electricity to sting, jol!",
 		"When you were a polyp, what side of the colony did you attach to, jol?",
 		"Let's shake hands, jol!",
 		"Look at me! I got no bones, jol!",
 		"The galaxy is vast and full of wonders, jol!",
-		"",
-		"Jol!",
-		"Jol.",
+		"Trust a Scyphojel, jol!",
+		
 		"Sorry, I know nothing, jol.",
 		"Whooo! Jol!",
+		"Wanna play a card game, jol?",
+		"Transparent cases on electronics are the coolest, jol.",
+		"I think I forgot to feed my virtual pets, jol!",
+		"I am looking for a Sheljel, jol. Want to trade for my Jolteel, jol? Huh? Do you not play that game, jol?",
 		"Do you have the time, jol?",
 		"Don't listen to the others; they actually think Jel World is real, jol!",
 		"Huh? Something has happened, jol?",
+		"What the heck does \'jol\' even mean?!",
 		"Where did you come from, jol?"
 		],
 	"glitch":[
 		"Do you need recharging, jol? Just shake my hand, jol!",
 		"Do you have a creator, jol? We'd like to meet them too, jol!",
-		"Metal, jol?",
+		"Castles, kings and knights; the Glitch seem like something out of a fairytale, jol.",
+		"You are made of metal, jol?",
 		"Where did you come from, jol?"
 		],
 	"hylotl":[
-		"Some say we used to live in water before, jol."
+		"Some say we used to live in water before, jol.",
+		"I've heard there are creatures a lot like us under the ocean, jol"
 		],
 	"scyphojel":[
-		"How many lives did you go through, jol?",
 		"Hey! We're the same height! What a coincidence, jol!",
+		"Hello fellow Scyphojel ...jol",
 		"Where did you come from, jol?"
 		],
 	"novakid":[
 		"Where are your tentacles? AAAAAAHHH! \n...jol. ",
 		"Hello, glow-friend, jol!",
-		"Huh? What are you? You are not Jel, jol."
+		"Huh? What are you? You are not a Scyphojel, jol."
 		],
-		
 	"default": [
 		"Huh? What are you, jol?",
-		"Isn't it inconvenient to have to breathe in and out all the time, jol? What if you forget, jol?",
-		"..."
+		"My name is <selfname>, jol. Huh? No it's not <selfname>-jol, jol, <selfname> is my name, jol!",
+		"Isn't it inconvenient to have to breathe in and out all the time, jol? What if you forget, jol?"
         ]
       }
     }

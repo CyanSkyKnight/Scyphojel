@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "chestarmour",
-  "description" : "\"KEEEEEEVIN!\"",
-  "shortdescription" : "Crowned Jelly Cloak",
+  "description" : "The crown jellies were inspired by alien stories about kings and queens.",
+  "shortdescription" : "Crowned Jelly Regalia",
   "tooltipKind" : "armor",
 
   "maleFrames" : {

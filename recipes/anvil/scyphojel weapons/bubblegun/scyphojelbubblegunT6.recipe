@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "solariumstar", "count" : 3 },
+    { "item" : "refinedviolium", "count" : 3 }
+  ],
+  "output" : { "item" : "scyphojelbubblegunT5", "data" : { "animationParts" : { "butt" : "", "middle" : "scyphojelbubblegun6.png", "barrel" : "", "muzzleFlash" : "/items/active/weapons/ranged/unrand/neotommygun/muzzleflash.png" }, "inventoryIcon" : "scyphojelbubblegun6.png", "level" : 6, "shortdescription" : "Dual-Slot Bubblegun", "rarity" : "Legendary" }, "count" : 1 },
+  "groups" : [ "craftingaccelerator", "weapons", "ranged2", "armory3", "all" ]
+}

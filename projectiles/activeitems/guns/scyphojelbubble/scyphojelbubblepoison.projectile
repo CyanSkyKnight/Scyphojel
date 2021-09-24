@@ -1,0 +1,33 @@
+{
+  "projectileName" : "scyphojelbubblepoison",
+  "image" : "scyphojelbubblepoison.png",
+  "physics" : "scyphojelbubblegun",
+  "animationCycle" : 1,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 16,
+  "power" : 50,
+  "speed" : 25,
+  "timeToLive" : 0.9,
+  "orientationLocked" : true,
+  "bounces" : 0,
+  "piercing" : false,
+  "damagePoly" : [ [-4.5, 0], [-3, -3], [0, -4.5], [3, -3], [4.5, 0], [3, 3], [0, 4.5], [-3, 3] ],
+  "damageKind" : "poison",
+  "statusEffects" : [ "weakpoison" ],
+  "lightColor" : [55, 70, 30],
+  "fullbright" : true,
+  "actionOnReap" : [
+      {
+      "action" : "sound",
+      "options" : [ "/sfx/projectiles/bubble_impact.ogg" ]
+    },
+      {
+      "action" : "sound",
+      "options" : [ "/sfx/projectiles/scyphojelbubblepop.ogg" ]
+    },
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/elementimpact/poisonimpactmute.config"
+    }
+  ]
+}

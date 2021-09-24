@@ -1,0 +1,48 @@
+{
+  "objectName" : "scyphojelinflatablechair",
+  "colonyTags" : ["scyphojel", "misc"],
+  "rarity" : "Common",
+  "description" : "An inflatable armchair. Make sure you don't have your keys in your pocket.",
+  "shortdescription" : "Inflatable Chair",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 85,
+
+  "apexDescription" : "A plastic armchair.",
+  "avianDescription" : "I think my feathers might pop this chair.",
+  "floranDescription" : "Floran sssink into chair like quick ssand.",
+  "glitchDescription" : "Calm. This chair is a powerful relaxant.",
+  "humanDescription" : "The kind of chair you have for life.",
+  "hylotlDescription" : "A cruel mockery of a nice chair.",
+  "novakidDescription" : "Soft, like sitting on a marshmallow.",
+
+  "inventoryIcon" : "scyphojelinflatablechairicon.png",
+  "orientations" : [
+    {
+      "image" : "scyphojelinflatablechair.png:<color>",
+      "imagePosition" : [-10, 0],
+      "sitCoverImage" : "/objects/scyphojel/scyphojelinflatablechair/scyphojelinflatablechaircover.png",
+      "direction" : "left",
+      "flipImages" : true,
+
+      "sitPosition" : [-3, 21],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "scyphojelinflatablechair.png:<color>",
+      "imagePosition" : [-10, 0],
+      "sitCoverImage" : "/objects/scyphojel/scyphojelinflatablechair/scyphojelinflatablechaircover.png",
+      "direction" : "right",
+
+      "sitPosition" : [5, 21],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false
+}

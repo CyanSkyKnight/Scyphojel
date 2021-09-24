@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "headarmour",
-  "description" : "Designed after a distant relative of the Scyphojel. This helm is actually quite buoyant. \n^yellow;Physalia physalis^reset;",
+  "description" : "Designed after a distant relative of the Scyphojel. This helm is actually quite buoyant. \n^magenta;Physalia physalis^reset;",
   "shortdescription" : "Man O' War Helm",
   "tooltipKind" : "armor",
 

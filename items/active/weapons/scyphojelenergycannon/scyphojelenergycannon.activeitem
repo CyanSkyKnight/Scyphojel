@@ -11,7 +11,7 @@
   "handGrip" : "wrap",
   "itemTags" : ["weapon", "ranged", "energy", "upgradeableWeapon"],
   "level" : 1,
-  "inventoryIcon" : "scyphojelenergycannonicon.png",
+  "inventoryIcon" : "scyphojelenergycannon.png:empty",
   "animation" : "scyphojelenergycannon.animation",
   "animationParts" : {
     "gun" : "scyphojelenergycannon.png",
@@ -28,24 +28,25 @@
     "chargeLevels" : [
       {
         "time" : 0,
-        "energyCost" : 5,
-        "cooldown" : 0.1,
+        "energyCost" : 10,
+        "cooldown" : 0.25,
         "projectileType" : "scypojelpolygon2",
         "projectileParameters" : {
-		"speed" : 25
+		"speed" : 50,
+		"timeToLive" : 1
 		},
         "inaccuracy" : 0.008,
         "baseDamage" : 1.5,
         "fireSound" : "fire"
       },
       {
-        "time" : 1.0,
+        "time" : 0.9,
         "energyCost" : 40,
-        "cooldown" : 0.5,
-        "projectileType" : "saturnhyperbeam",
+        "cooldown" : 1,
+        "projectileType" : "scyphojelchargedshot",
         "projectileParameters" : {
-		"speed" : 140,
-		"timeToLive" : 2
+		"speed" : 25,
+		"timeToLive" : 6
 		},
         "inaccuracy" : 0,
         "baseDamage" : 9,
@@ -80,7 +81,7 @@
         "allowFlip" : true
       },
       "cooldown" : {
-        "duration" : 0.1,
+        "duration" : 0.5,
         "armRotation" : 0,
         "weaponRotation" : 0,
         "twoHanded" : false,

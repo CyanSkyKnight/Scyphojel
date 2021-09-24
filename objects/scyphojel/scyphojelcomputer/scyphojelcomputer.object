@@ -3,7 +3,7 @@
   "colonyTags" : ["scyphojel","electronic","wired"],
   "rarity" : "Common",
   "description" : "A retro personal computer.",
-  "shortdescription" : "Scyphojel Computer",
+  "shortdescription" : "Teal Computer",
   "race" : "generic",
   "category" : "wire",
   "price" : 140,
@@ -19,10 +19,11 @@
   "apexDescription" : "Hard to believe this old computer is still working.",
   "avianDescription" : "Looks like an early model Earth computer.",
   "floranDescription" : "This old machine is ssstill running sssomehow.",
-  "glitchDescription" : "Amused. Early computer processors required extremely large housings.",
+  "glitchDescription" : "Amused. Early computer processors required large housings.",
   "humanDescription" : "It's hard to believe humans once spent hours starting at machines like this.",
   "hylotlDescription" : "The design is very basic, but it's a real historical artifact.",
   "novakidDescription" : "Wonder if there's any card games on this ol' machine.",
+  "scyphojelDescription" : "I wonder if there's a forum for space travelers, jol.",
 
   "inventoryIcon" : "scyphojelcomputericon.png",
   "orientations" : [
@@ -62,8 +63,8 @@
   "animation" : "scyphojelcomputer.animation",
   "animationCustom" : {
     "sounds" : {
-      "on" : [ "/sfx/objects/console_generic_switchon.ogg" ],
-      "off" : [ "/sfx/objects/console_generic_switchoff.ogg" ]
+      "on" : [ "/sfx/objects/avianconsole_on.ogg" ],
+      "off" : [ "/sfx/objects/avianconsole_off.ogg" ]
     }
   },
   "animationParts" : {

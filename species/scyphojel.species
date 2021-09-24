@@ -3,7 +3,7 @@
 	"charCreationTooltip" : {
 	"title" : "scyphojel",
 	"subTitle" : "Ne",
-	"description" : "The Scyphojel are bioluminescent, electricity-producing metallivore jellyfish that have been at home in the vacuum of space for as long as they can remember. They levitate through the air using energy from the bright spots on the ends of their tentacles. Most of their bodies are made of a strange gelatinous fluid."
+	"description" : "The Scyphojel are bioluminescent, electricity-producing jellyfish that have been at home in the vacuum of space for as long as they can remember. They levitate through the air using energy from the bright spots on the ends of their tentacles. Most of their bodies are made of a strange gelatinous fluid."
   },
   "footstepTiming" : 2,
   "footstepSensor" : [0, 0],
@@ -40,7 +40,6 @@
       { "item" : "scyphojeltier2head" },
       { "item" : "scyphojeltier2chest" },
       { "item" : "scyphojeltier2pants" },
-      { "item" : "scyphojelsword" },
       { "item" : "ironshortsword" },
       { "item" : "ironbroadsword" },
       { "item" : "tungstenaxe" },
@@ -72,7 +71,7 @@
 	  { "item" : "scyphojeltier6shead" },
 	  { "item" : "scyphojeltier6schest" },
 	  { "item" : "scyphojeltier6spants" },
-	  
+
       { "item" : "titaniumdagger" },
       { "item" : "titaniumspear" },
       { "item" : "durasteelbroadsword" },
@@ -83,6 +82,11 @@
 	  { "item" : "feroziumstaff" },
 	  { "item" : "violiumshortsword" },
 	  { "item" : "violiumbroadsword" },
+	  
+//		whips
+//		bubbleguns
+//		chargeguns
+
 // Furniture Table 2
       { "item" : "scyphojelstoragelocker" },
       { "item" : "scyphojelshipdoor" },

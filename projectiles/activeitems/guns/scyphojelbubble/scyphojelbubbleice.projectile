@@ -1,6 +1,6 @@
 {
-  "projectileName" : "scyphojelbubble",
-  "image" : "scyphojelbubble.png",
+  "projectileName" : "scyphojelbubbleice",
+  "image" : "scyphojelbubbleice.png",
   "physics" : "scyphojelbubblegun",
   "animationCycle" : 1,
   "damageKindImage" : "icon.png",
@@ -23,7 +23,7 @@
     },
       {
       "action" : "sound",
-      "options" : [ "/sfx/projectiles/scyphojelbubbleacid.ogg" ]
+      "options" : [ "/sfx/projectiles/scyphojelbubblepop.ogg" ]
     },
     {
       "action" : "config",

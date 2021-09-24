@@ -10,6 +10,8 @@
   "race" : "generic",
   "inventoryIcon" : "scyphojelmannequinicon.png",
   
+  "scyphojelDescription" : "It perfectly fits clothes us Jel can wear, jol.",
+  
   "orientations" : [
     {
       "dualImage" : "scyphojelmannequin.png",

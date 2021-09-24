@@ -2,27 +2,27 @@
   "itemName" : "scyphojelbubblegun",
   "price" : 960,
   "maxStack" : 1,
-  "rarity" : "Uncommon",
+  "rarity" : "Common",
   "description" : "BANG! BANG! BANG! And it sparkles like new!",
-  "shortdescription" : "Ice Bubblegun",
+  "shortdescription" : "Test Bubblegun",
   "tooltipKind" : "gun",
   "category" : "assaultRifle",
   "twoHanded" : true,
   "itemTags" : ["weapon","ranged","assaultrifle"],
   "level" : 1,
 
-  "inventoryIcon" : "scyphojelbubblegun.png",
+  "inventoryIcon" : "scyphojelbubblegun1.png",
 
   "animation" : "/items/active/weapons/scyphojelgun.animation",
   "animationParts" : {
     "butt" : "",
-    "middle" : "scyphojelbubblegun.png",
+    "middle" : "scyphojelbubblegun1.png",
     "barrel" : "",
     "muzzleFlash" : "/items/active/weapons/ranged/unrand/neotommygun/muzzleflash.png"
   },
   "animationCustom" : {
     "sounds" : {
-      "fire" : ["/sfx/projectiles/scyphojelbubble_blow3.ogg", "/sfx/projectiles/scyphojelbubble_blow3.ogg", "/sfx/projectiles/scyphojelbubble_blow3.ogg"]
+      "fire" : [ "/sfx/projectiles/scyphojelbubble_blow3.ogg"]
     }
   },
 
@@ -31,7 +31,7 @@
 
   "scripts" : ["/items/active/weapons/ranged/gun.lua", "/items/active/weapons/neb-colourmatching.lua"],
 
-  "elementalType" : "physical",
+  "elementalType" : "ice",
 
   "primaryAbility" : {
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
@@ -41,12 +41,12 @@
     "baseDps" : 10.5,
     "energyUsage" : 20.5,
     "inaccuracy" : 0.05,
-    "burstCount" : 4,
-    "burstTime" : 0.1,
+    "burstCount" : 6,
+    "burstTime" : 0.05,
     "projectileCount" : 1,
     "fireType" : "burst",
 
-    "projectileType" : "scyphojelbubble",
+    "projectileType" : "scyphojelbubbleice",
     "projectileParameters" : {
       "knockback" : 3,
 	  "speed" : [80, 100]

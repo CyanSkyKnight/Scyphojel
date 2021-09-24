@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "headarmour",
-  "description" : "",
+  "description" : "This armor is worn by station technicians while repairing the outside of spacecraft.\n^darkcyan;Phyllorhiza punctata^reset;",
   "shortdescription" : "Floating Bell Helm",
   "tooltipKind" : "armor",
 

@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "headarmour",
-  "description" : "A very popular helmet, favored by energy weapon enthusiasts.",
+  "description" : "A very popular helmet, favored by energy weapon enthusiasts.\n^green;Aurelia aurita^reset;",
   "shortdescription" : "Moon Jelly Helm",
   "tooltipKind" : "armor",
 

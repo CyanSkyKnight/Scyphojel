@@ -1,0 +1,87 @@
+{
+  "itemName" : "scyphojelbubblegunpoison",
+  "price" : 960,
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "Please wear goggles when using this.",
+  "shortdescription" : "Acid Bubblegun",
+  "tooltipKind" : "gun",
+  "category" : "assaultRifle",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","ranged","assaultrifle"],
+  "level" : 1,
+
+  "inventoryIcon" : "scyphojelbubblegun2.png",
+
+  "animation" : "/items/active/weapons/scyphojelgun.animation",
+  "animationParts" : {
+    "butt" : "",
+    "middle" : "scyphojelbubblegun2.png",
+    "barrel" : "",
+    "muzzleFlash" : "/items/active/weapons/ranged/unrand/neotommygun/muzzleflash.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ "/sfx/projectiles/scyphojelbubble_blow2.ogg"]
+    }
+  },
+
+  "baseOffset" : [0.4, 0.15],
+  "muzzleOffset" : [2.3, 0.15],
+
+  "scripts" : ["/items/active/weapons/ranged/gun.lua", "/items/active/weapons/neb-colourmatching.lua"],
+
+  "elementalType" : "poison",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+
+    "fireTime" : 0.15,
+    "baseDps" : 10.5,
+    "energyUsage" : 20.5,
+    "inaccuracy" : 0.05,
+    "burstCount" : 4,
+    "burstTime" : 0.1,
+    "projectileCount" : 1,
+    "fireType" : "burst",
+
+    "projectileType" : "scyphojelbubblepoison",
+    "projectileParameters" : {
+      "knockback" : 3,
+	  "speed" : [80, 100]
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 1,
+        "weaponRotation" : 1,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "cooldown" : {
+        "duration" : 0.11,
+        "armRotation" : 1,
+        "weaponRotation" : 1,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      }
+    }
+  },
+
+  "altAbilityType" : "spray",
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

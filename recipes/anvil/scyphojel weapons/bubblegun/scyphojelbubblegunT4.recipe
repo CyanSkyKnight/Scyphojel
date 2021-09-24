@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 3 },
+    { "item" : "copperbar", "count" : 3 }
+  ],
+  "output" : { "item" : "scyphojelbubblegunT4", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons", "ranged2", "armory2", "all" ]
+}
