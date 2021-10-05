@@ -3,6 +3,6 @@
     { "item" : "solariumstar", "count" : 3 },
     { "item" : "refinedviolium", "count" : 3 }
   ],
-  "output" : { "item" : "scyphojelwhip", "data" : { "inventoryIcon" : "scyphojelwhipicon6.png", "level" : 6, "shortdescription" : "Solarium Whip Bracelet" }, "count" : 1 },
+  "output" : { "item" : "scyphojelwhipT6", "count" : 1 },
   "groups" : [ "craftingseparator", "weapons", "melee2", "armory3", "all" ]
 }

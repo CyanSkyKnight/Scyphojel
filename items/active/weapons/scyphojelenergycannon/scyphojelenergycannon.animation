@@ -11,7 +11,7 @@
             "mode" : "transition",
             "transition" : "fullcharge",
             "properties" : {
-              "persistentSound" : "/sfx/gun/saturnChargestaffcharge.ogg",
+              "persistentSound" : "/sfx/gun/scyphojelchargegun.ogg",
               "persistentSoundStopTime" : 0.5
             }
           },
@@ -35,7 +35,8 @@
         "properties" : {
           "centered" : true,
           "offset" : [1.0, 0.25],
-          "transformationGroups" : ["weapon"]
+          "transformationGroups" : ["weapon"],
+		  "fullbright" : true
         },
 
         "partStates" : {

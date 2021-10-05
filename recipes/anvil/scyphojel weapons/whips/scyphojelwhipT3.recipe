@@ -3,6 +3,6 @@
     { "item" : "titaniumbar", "count" : 3 },
     { "item" : "copperbar", "count" : 3 }
   ],
-  "output" : { "item" : "scyphojelwhip", "data" : { "inventoryIcon" : "scyphojelwhipicon3.png", "level" : 3, "shortdescription" : "Titanium Whip Bracelet" }, "count" : 1 },
+  "output" : { "item" : "scyphojelwhipT3", "count" : 1 },
   "groups" : [ "craftinganvil2", "weapons", "melee", "armory2", "all" ]
 }

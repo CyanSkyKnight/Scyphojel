@@ -3,6 +3,6 @@
     { "item" : "durasteelbar", "count" : 3 },
     { "item" : "copperbar", "count" : 3 }
   ],
-  "output" : { "item" : "scyphojelwhip", "data" : { "inventoryIcon" : "scyphojelwhipicon4.png", "level" : 4, "shortdescription" : "Durasteel Whip Bracelet" }, "count" : 1 },
+  "output" : { "item" : "scyphojelwhipT4", "count" : 1 },
   "groups" : [ "craftinganvil3", "weapons", "melee", "armory2", "all" ]
 }

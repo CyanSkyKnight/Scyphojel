@@ -3,6 +3,6 @@
     { "item" : "refinedviolium", "count" : 3 },
     { "item" : "goldbar", "count" : 3 }
   ],
-  "output" : { "item" : "scyphojelwhip", "data" : { "inventoryIcon" : "scyphojelwhipicon5.png", "level" : 5, "shortdescription" : "Violium Whip Bracelet" }, "count" : 1 },
+  "output" : { "item" : "scyphojelwhipT5", "count" : 1 },
   "groups" : [ "craftingseparator", "weapons", "melee", "armory3", "all" ]
 }

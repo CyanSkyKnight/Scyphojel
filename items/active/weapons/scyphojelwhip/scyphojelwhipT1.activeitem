@@ -1,10 +1,10 @@
 {
-  "itemName" : "scyphojelwhip",
+  "itemName" : "scyphojelwhipT1",
   "price" : 570,
   "level" : 1,
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "Test item...",
+  "description" : "The gel stored within allows one to extend and swing their tentacles in a wide arc.",
   "shortdescription" : "Whip Bracelet",
   "tooltipKind" : "scyphojelmelee",
   "category" : "whip",

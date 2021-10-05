@@ -1,0 +1,31 @@
+[
+
+{"op" : "add", "path" : "/scyphojelweapons", "value":[
+	[0, [  
+	  { "item" : { "name" : "scyphojelenergycannonT1" }},
+	  { "item" : { "name" : "scyphojelwhipT1" }},
+	  { "item" : { "name" : "scyphojelbubblegunT1" }}
+	]],
+	[1.9, [	  
+	  { "item" : { "name" : "scyphojelenergycannonT2" }},
+	  { "item" : { "name" : "scyphojelwhipT2" }},
+	  { "item" : { "name" : "scyphojelbubblegunT2" }}
+	]],
+	[2.9, [	  
+	  { "item" : { "name" : "scyphojelenergycannonT3" }},
+	  { "item" : { "name" : "scyphojelwhipT3" }},
+	  { "item" : { "name" : "scyphojelbubblegunT3" }}
+	]],
+	[3.9, [
+	  { "item" : { "name" : "scyphojelenergycannonT4" }},
+	  { "item" : { "name" : "scyphojelwhipT4" }},
+	  { "item" : { "name" : "scyphojelbubblegunT4" }}
+		]],
+	[4.9, [
+	  { "item" : { "name" : "scyphojelenergycannonT5" }},
+	  { "item" : { "name" : "scyphojelwhipT5" }},
+	  { "item" : { "name" : "scyphojelbubblegunT5" }},
+	  { "item" : { "name" : "scyphojelbubblegunpoison" }}
+	]]
+	]}
+]

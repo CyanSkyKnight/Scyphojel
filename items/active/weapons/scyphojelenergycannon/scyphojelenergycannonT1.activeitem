@@ -1,0 +1,94 @@
+{
+  "itemName" : "scyphojelenergycannonT1",
+  "price" : 200,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "(Level 1) Hold fire to charge. \nDamage: ^yellow;2^reset;, ^cyan;11 (charged)^reset;",
+  "shortdescription" : "Charge Cannon",
+  "tooltipKind" : "base",
+  "category" : "gun",
+  "twoHanded" : false,
+  "handGrip" : "wrap",
+  "itemTags" : ["weapon", "ranged", "energy"],
+  "level" : 1,
+  "inventoryIcon" : "scyphojelenergycannon.png:empty",
+  "animation" : "scyphojelenergycannon.animation",
+  "animationParts" : {
+    "gun" : "scyphojelenergycannon.png",
+    "gunfullbright" : "scyphojelenergycannonFB.png"
+  },
+  "animationCustom" : {},
+  "muzzleOffset" : [1.875, 0.125],
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+  "elementalType" : "fire",
+
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/abilities/chargefire/chargefire.lua"],
+    "class" : "ChargeFire",
+    "chargeLevels" : [
+      {
+        "time" : 0,
+        "energyCost" : 10,
+        "cooldown" : 0.25,
+        "projectileType" : "scypojelpolygon2",
+        "projectileParameters" : {
+		"speed" : 50,
+		"timeToLive" : 1
+		},
+        "inaccuracy" : 0.008,
+        "baseDamage" : 2,
+        "fireSound" : "fire"
+      },
+      {
+        "time" : 0.9,
+        "energyCost" : 40,
+        "cooldown" : 1,
+        "projectileType" : "scyphojelchargedshot",
+        "projectileParameters" : {
+		"speed" : 35,
+		"timeToLive" : 6
+		},
+        "inaccuracy" : 0,
+        "baseDamage" : 11,
+        "fireSound" : "fire2"
+      }
+    ],
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+		"weaponOffset" : [0, -0.4],
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "charge" : {
+		"duration" : 0.01,
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+		"weaponOffset" : [0, -0.4],
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0.01,
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+		"weaponOffset" : [0, -0.4],
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "cooldown" : {
+        "duration" : 0.5,
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : false,
+		"weaponOffset" : [0, -0.4],
+        "allowRotate" : true,
+        "allowFlip" : true
+      }}
+},
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

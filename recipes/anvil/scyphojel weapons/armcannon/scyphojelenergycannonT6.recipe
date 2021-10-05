@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "solariumstar", "count" : 3 },
+    { "item" : "refinedviolium", "count" : 3 }
+  ],
+  "output" : { "item" : "scyphojelenergycannonT6", "count" : 1 },
+  "groups" : [ "craftingaccelerator", "weapons", "ranged", "armory3", "all" ]
+}

@@ -1,11 +1,11 @@
 {
-  "itemName" : "scyphojelwhip",
+  "itemName" : "scyphojelwhipT4",
   "price" : 570,
-  "level" : 1,
+  "level" : 4,
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "Test item...",
-  "shortdescription" : "Whip Bracelet",
+  "description" : "The gel stored within allows one to extend and swing their tentacles in a wide arc.",
+  "shortdescription" : "Durasteel Whip Bracelet",
   "tooltipKind" : "scyphojelmelee",
   "category" : "whip",
   "twoHanded" : false,
@@ -13,7 +13,7 @@
   "itemTags" : ["weapon", "melee", "whip", "bioweapon", "upgradeableWeapon"],
   "critChance" : 1,
   "critBonus" : 1, 
-  "inventoryIcon" : "scyphojelwhipicon.png",
+  "inventoryIcon" : "scyphojelwhipicon4.png",
   "animation" : "/items/active/weapons/scyphojelwhip/scyphojelwhipcombo.animation",
   "animationParts" : {
     "handle": "scyphojelwhip.png"

@@ -8,7 +8,7 @@
   "tooltipKind" : "gun",
   "category" : "assaultRifle",
   "twoHanded" : true,
-  "itemTags" : ["weapon","ranged","assaultrifle"],
+  "itemTags" : ["weapon","ranged","assaultrifle", "upgradeableWeapon"],
   "level" : 5,
 
   "inventoryIcon" : "scyphojelbubblegun5.png",

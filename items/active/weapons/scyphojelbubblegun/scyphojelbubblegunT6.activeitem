@@ -1,28 +1,28 @@
 {
-  "itemName" : "scyphojelbubblegunpoison",
+  "itemName" : "scyphojelbubblegunT6",
   "price" : 960,
   "maxStack" : 1,
-  "rarity" : "Uncommon",
-  "description" : "Please wear goggles when using this.",
-  "shortdescription" : "Acid Bubblegun",
+  "rarity" : "Legendary",
+  "description" : "It has two charge grips for more efficient power usage.",
+  "shortdescription" : "Dual-slot Bubblegun",
   "tooltipKind" : "gun",
   "category" : "assaultRifle",
   "twoHanded" : true,
-  "itemTags" : ["weapon","ranged","assaultrifle"],
-  "level" : 1,
+  "itemTags" : ["weapon","ranged","assaultrifle", "upgradeableWeapon"],
+  "level" : 6,
 
-  "inventoryIcon" : "scyphojelbubblegun2.png",
+  "inventoryIcon" : "scyphojelbubblegun6.png",
 
   "animation" : "/items/active/weapons/scyphojelgun.animation",
   "animationParts" : {
     "butt" : "",
-    "middle" : "scyphojelbubblegun2.png",
+    "middle" : "scyphojelbubblegun6.png",
     "barrel" : "",
     "muzzleFlash" : "/items/active/weapons/ranged/unrand/neotommygun/muzzleflash.png"
   },
   "animationCustom" : {
     "sounds" : {
-      "fire" : [ "/sfx/projectiles/scyphojelbubble_blow2.ogg"]
+      "fire" : [ "/sfx/projectiles/scyphojelbubble_blow3.ogg"]
     }
   },
 
@@ -31,7 +31,7 @@
 
   "scripts" : ["/items/active/weapons/ranged/gun.lua", "/items/active/weapons/neb-colourmatching.lua"],
 
-  "elementalType" : "poison",
+  "elementalType" : "ice",
 
   "primaryAbility" : {
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
@@ -46,10 +46,10 @@
     "projectileCount" : 1,
     "fireType" : "burst",
 
-    "projectileType" : "scyphojelbubblepoison",
+    "projectileType" : "scyphojelbubbleice",
     "projectileParameters" : {
       "knockback" : 3,
-	  "speed" : [80, 100]
+	  "speed" : [90, 110]
     },
     "stances" : {
       "idle" : {

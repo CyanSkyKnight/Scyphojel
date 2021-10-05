@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "legwear",
-  "description" : "Hides your pants. Obligatory for any non-humanoid species mod.",
+  "description" : "Hides your pants. Jellyfish don't have legs, so this is more like a weird shirt to them.",
   "shortdescription" : "Invisible Wizard Pants",
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",

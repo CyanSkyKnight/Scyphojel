@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "Hides your shirt. Since Scyphojel don't usually wear shirts, this item isn't canon.",
+  "description" : "Hides your shirt. Obligatory for any non-humanoid species mod.",
   "shortdescription" : "Invisible Shirt",
   "tooltipKind" : "armor",
   "maleFrames" : {

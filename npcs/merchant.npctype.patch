@@ -1,0 +1,19 @@
+[
+{"op" : "add", "path" : "/scriptConfig/merchant/categories/scyphojel", "value":[ "scyphojelweapons", "basicmerchant" ] },
+{"op" : "add", "path" : "/items/saturn", "value":[[0, [
+        {
+         "head" : [
+			{ "name" : "saturnnull", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19] } }
+          ],
+          "chest" : [
+			{ "name" : "saturnForestMageUnarmoredchest", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,25,26,27] } }
+          ],
+          "back" : [
+			{ "name" : "saturnWingSimple2", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,25,26,27] } }
+          ],
+          "legs" : [
+			{ "name" : "saturnForestMageUnarmoredpants", "data" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,25,26,27] } }
+          ]
+        }
+	]]]}
+]

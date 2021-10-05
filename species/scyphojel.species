@@ -84,8 +84,54 @@
 	  { "item" : "violiumbroadsword" },
 	  
 //		whips
+	  { "item" : "scyphojelwhipT1" },
+	  { "item" : "scyphojelwhipT2" },
+	  { "item" : "scyphojelwhipT3" },
+	  { "item" : "scyphojelwhipT4" },
+	  { "item" : "scyphojelwhipT5" },
+	  { "item" : "scyphojelwhipT6" },
+
 //		bubbleguns
+	  { "item" : "scyphojelbubblegunT1" },
+	  { "item" : "scyphojelbubblegunT2" },
+	  { "item" : "scyphojelbubblegunT3" },
+	  { "item" : "scyphojelbubblegunT4" },
+	  { "item" : "scyphojelbubblegunT5" },
+	  { "item" : "scyphojelbubblegunT6" },
+	  
 //		chargeguns
+	  { "item" : "scyphojelenergycannonT1" },
+	  { "item" : "scyphojelenergycannonT2" },
+	  { "item" : "scyphojelenergycannonT3" },
+	  { "item" : "scyphojelenergycannonT4" },
+	  { "item" : "scyphojelenergycannonT5" },
+	  { "item" : "scyphojelenergycannonT6" },
+// Furniture Table 1
+
+// 	  { "item" : "scyphojel_coralslope" },
+// 	  { "item" : "scyphojel_mesoslime" },
+// 	  { "item" : "scyphojel_mesotile" },
+// 	  { "item" : "scyphojel_mesotile2" },
+
+// 	  { "item" : "scyphojelmannequin" },
+
+// 	  { "item" : "scyphojelinflatablechair" },
+// 	  { "item" : "scyphojelchair" },
+// 	  { "item" : "scyphojelchair" },
+
+// 	  { "item" : "scyphojelcomputer" },
+// 	  { "item" : "scyphojelcomputer2" },
+
+// 	  { "item" : "scyphojeltable" },
+// 	  { "item" : "scyphojeltable2" },
+
+// 	  { "item" : "scyphojelcrate" },
+// 	  { "item" : "scyphojelcrate2" },
+
+//bed
+//bed2
+//poster
+//lcdpanels
 
 // Furniture Table 2
       { "item" : "scyphojelstoragelocker" },
