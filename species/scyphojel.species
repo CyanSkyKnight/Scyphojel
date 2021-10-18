@@ -13,7 +13,6 @@
   "backArmRotationCenter" : [-2, 2],
   "frontHandPosition" : [8, -2],
   "headSitOffset" : [-2, -1],
-  "armSitOffset" : [0, -6],
   "sitOffset" : -6,
   "humanoidTiming" : {
 		// Idle, Walk, Run, Jump, Fall, Swim, SwimIdle, Duck, Sit, Lay
