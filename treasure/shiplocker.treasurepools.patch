@@ -5,7 +5,9 @@
     "value": [[0, {
       "fill" : [
 	   { "pool" : "starterTreasure"},
-        {"item" : [ "automato", 3 ]},
+        {"item" : [ "automatoseed", 3 ]},
+        {"item" : [ "scyphojel_coralslope", 200 ]},
+        {"item" : [ "scyphojel_mesotile", 200 ]},
         {"item" : [ "copperbar", 1 ]}
       ]
     }]]

@@ -1,12 +1,12 @@
 {
   "itemName" : "scyphojel_jelbowtie",
-  "price" : 100,
+  "price" : 75,
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
-  "rarity" : "Legendary",
-  "category" : "chestarmour",
-  "description" : "",
-  "shortdescription" : "Jelly Bow Tie",
+  "rarity" : "Common",
+  "category" : "chestwear",
+  "description" : "A fancy bow tie!",
+  "shortdescription" : "Jel Bow Tie",
   "tooltipKind" : "armor",
 
   "maleFrames" : {

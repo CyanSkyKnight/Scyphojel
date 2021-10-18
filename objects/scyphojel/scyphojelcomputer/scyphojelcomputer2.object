@@ -1,9 +1,9 @@
 {
-  "objectName" : "scyphojelcomputer",
+  "objectName" : "scyphojelcomputer2",
   "colonyTags" : ["scyphojel","electronic","wired"],
   "rarity" : "Common",
   "description" : "A retro personal computer.",
-  "shortdescription" : "Clear Computer",
+  "shortdescription" : "Yellow Jel Computer",
   "race" : "generic",
   "category" : "wire",
   "price" : 140,
@@ -25,10 +25,10 @@
   "novakidDescription" : "Wonder if there's any card games on this ol' machine.",
   "scyphojelDescription" : "You can see all of the wiring inside, jol.",
 
-  "inventoryIcon" : "scyphojelcomputericon.png",
+  "inventoryIcon" : "scyphojelcomputer2icon.png",
   "orientations" : [
     {
-      "image" : "scyphojelcomputer.png:<color>.on",
+      "image" : "scyphojelcomputer2.png:<color>.on",
       "imagePosition" : [-16, 0],
       "animationPosition" : [-16, 0],
 
@@ -41,7 +41,7 @@
       "anchors" : [ "bottom" ]
     },
     {
-      "image" : "scyphojelcomputer.png:<color>.on",
+      "image" : "scyphojelcomputer2.png:<color>.on",
       "imagePosition" : [-16, 0],
       "animationPosition" : [-16, 0],
 
@@ -69,7 +69,7 @@
   },
   "animationParts" : {
     "bg" : "scyphojelcomputer.png",
-    "fg" : "scyphojelcomputer2.png"
+    "fg" : "scyphojelcomputer2lit.png"
   },
 
   "outputNodes" : [ [0, 1] ],

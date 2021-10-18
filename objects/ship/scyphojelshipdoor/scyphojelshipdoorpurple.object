@@ -36,11 +36,11 @@
   "animationCustom" : {
     "sounds" : {
       "open" : {
-        "pool" : [ "/sfx/objects/scyphojelbubbledoor2.ogg" ],
+        "pool" : [ "/sfx/objects/scyphojelbubble.ogg" ],
         "rangeMultiplier" : 0.5
       },
       "close" : {
-        "pool" : [ "/sfx/objects/scyphojelbubbledoorClose.ogg" ],
+        "pool" : [ "/sfx/objects/scyphojelbubbleclose.ogg" ],
         "rangeMultiplier" : 0.5
       }
     }

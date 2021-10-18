@@ -3,10 +3,8 @@
 	"charCreationTooltip" : {
 	"title" : "scyphojel",
 	"subTitle" : "Ne",
-	"description" : "The Scyphojel are bioluminescent, electricity-producing jellyfish that have been at home in the vacuum of space for as long as they can remember. They levitate through the air using energy from the bright spots on the ends of their tentacles. Most of their bodies are made of a strange gelatinous fluid."
+	"description" : "The Scyphojel are glowing, electric jellyfish that have been at home in the vacuum of space for as long as they can remember. They can levitate and produce electricity using the ends of their tentacles. Their favorite foods are various metals."
   },
-  "footstepTiming" : 2,
-  "footstepSensor" : [0, 0],
   "statusEffects" : [ "novakidglow", "scyphojel_platformaid", "scyphojel_breath" ],
   
   "humanoidOverrides" : {
@@ -15,6 +13,7 @@
   "backArmRotationCenter" : [-2, 2],
   "frontHandPosition" : [8, -2],
   "headSitOffset" : [-2, -1],
+  "armSitOffset" : [0, -6],
   "sitOffset" : -6,
   "humanoidTiming" : {
 		// Idle, Walk, Run, Jump, Fall, Swim, SwimIdle, Duck, Sit, Lay
@@ -110,14 +109,14 @@
 
 // 	  { "item" : "scyphojel_coralslope" },
 // 	  { "item" : "scyphojel_mesoslime" },
-// 	  { "item" : "scyphojel_mesotile" },
-// 	  { "item" : "scyphojel_mesotile2" },
+	  { "item" : "scyphojel_mesotile" },
+ 	  { "item" : "scyphojel_mesotile2" },
 
 // 	  { "item" : "scyphojelmannequin" },
 
 // 	  { "item" : "scyphojelinflatablechair" },
 // 	  { "item" : "scyphojelchair" },
-// 	  { "item" : "scyphojelchair" },
+// 	  { "item" : "scyphojelchair2" },
 
 // 	  { "item" : "scyphojelcomputer" },
 // 	  { "item" : "scyphojelcomputer2" },
@@ -149,7 +148,7 @@
   "genders" : [
     {
       "name" : "male",
-      "image" : "/interface/title/scyphojelcyanico.png",
+      "image" : "/interface/title/scyphojeltypeAico.png",
       "characterImage" : "/interface/title/scyphojelico.png",
       "hair" : [ 
 	  "0",
@@ -179,7 +178,7 @@
 	  "alt color/23", "alt color/23b",
 	  "alt color/24", "alt color/24b", "alt color/24p", "alt color/24h"
 	  ],
-      "shirt" : [ "scyphojel_invischest", "avianfancyshirt", "scyphojel_jelbowtie" ],
+      "shirt" : [ "scyphojel_invischest", "scyphojel_jelshirt", "scyphojel_jelbowtie" ],
       "pants" : [ "scyphojel_invispants" ],
       "facialHairGroup" : "jelhair",
       "facialHair" : [  ],
@@ -188,7 +187,7 @@
     },
     {
       "name" : "female",
-      "image" : "/interface/title/scyphojelmagentaico.png",
+      "image" : "/interface/title/scyphojeltypeBico.png",
       "characterImage" : "/interface/title/scyphojelico.png",
       "hair" : [ 
 	  "0",
@@ -218,7 +217,7 @@
 	  "alt color/23", "alt color/23b",
 	  "alt color/24", "alt color/24b", "alt color/24p", "alt color/24h"
 	  ],
-      "shirt" : [ "scyphojel_invischest", "avianfancyshirt", "scyphojel_jelbowtie" ],
+      "shirt" : [ "scyphojel_invischest", "scyphojel_jelshirt", "scyphojel_jelbowtie" ],
       "pants" : [ "scyphojel_invispants" ],
       "facialHairGroup" : "jelhair",
       "facialHair" : [  ],

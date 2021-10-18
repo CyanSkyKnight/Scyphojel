@@ -1,5 +1,5 @@
 {
-  "objectName" : "scyphojelcrate",
+  "objectName" : "scyphojelcrate2",
   "colonyTags" : ["scyphojel","storage","commerce"],
   "rarity" : "Common",
   "objectType" : "container",
@@ -8,7 +8,7 @@
   "category" : "storage",
   "price" : 15,
   "description" : "A crate made of Coranthlite.",
-  "shortdescription" : "Teal Jel Box",
+  "shortdescription" : "Yellow Jel Box",
   "race" : "scyphojel",
   "health" : 1.5,
 
@@ -23,10 +23,10 @@
   "saturn2Description" : "This crate appears to be made from living materials.",
   "scyphojelDescription" : "A Coranthellite crate, jol.",
 
-  "inventoryIcon" : "scyphojelcrateicon.png",
+  "inventoryIcon" : "scyphojelcrate2icon.png",
   "orientations" : [
     {
-      "image" : "scyphojelcrate.png:default",
+      "image" : "scyphojelcrate2.png:default",
       "direction" : "left",
       "flipImages" : true,
 
@@ -39,7 +39,7 @@
       "collision" : "platform"
     },
     {
-      "image" : "scyphojelcrate.png:default",
+      "image" : "scyphojelcrate2.png:default",
       "direction" : "right",
 
       "imagePosition" : [-8, 0],

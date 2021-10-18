@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "legwear",
   "description" : "Hides your pants. Jellyfish don't have legs, so this is more like a weird shirt to them.",
-  "shortdescription" : "Invisible Wizard Pants",
+  "shortdescription" : "Invisible Pants",
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",
   "femaleFrames" : "pants.png",

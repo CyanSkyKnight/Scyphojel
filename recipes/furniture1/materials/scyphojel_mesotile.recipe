@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "coralfragment", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "scyphojel_mesotile",
+    "count" : 100
+  },
+  "duration" : 0.01,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

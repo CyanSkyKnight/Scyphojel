@@ -7,7 +7,7 @@
   "price" : 500,
   "description" : "A mannequin that fits Scyphojel clothes and armor.",
   "shortdescription" : "Scyphojel Mannequin",
-  "race" : "generic",
+  "race" : "scyphojel",
   "inventoryIcon" : "scyphojelmannequinicon.png",
   
   "scyphojelDescription" : "It perfectly fits clothes us Jel can wear, jol.",
