@@ -7,7 +7,7 @@
   "shortdescription" : "Yellow Jel Table",
   "race" : "scyphojel",
   "category" : "furniture",
-  "price" : 145,
+  "price" : 110,
 
   "apexDescription" : "This table is very sleek.",
   "avianDescription" : "This table's legs won't sting me, right?",
@@ -16,6 +16,7 @@
   "humanDescription" : "Does this table have tentacles?",
   "hylotlDescription" : "Not usually my kind of table, but this is rather impressive.",
   "novakidDescription" : "A good ol' yellow table.",
+  "scyphojelDescription" : "A sturdy table that will last a very long time, jol.",
 
   "inventoryIcon" : "scyphojeltable2icon.png",
   "orientations" : [

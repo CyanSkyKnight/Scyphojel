@@ -1,0 +1,46 @@
+{
+  "objectName" : "scyphojelbed",
+  "colonyTags" : ["misc","scyphojel", "bed" ],
+  "rarity" : "Common",
+  "description" : "A very soft bed that reduces gravity's pull.",
+  "shortdescription" : "Teal Jel Bed",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 170,
+
+  "apexDescription" : "A very nice, comfy bed.",
+  "avianDescription" : "This is very comfortable place to rest my feathers.",
+  "floranDescription" : "Floran ressst in great bed.",
+  "glitchDescription" : "Pleased. This bed looks very comfortable.",
+  "humanDescription" : "A great bed. Should easily be able to get some rest here.",
+  "hylotlDescription" : "Very decent build quality. I like this.",
+  "novakidDescription" : "I'll bet I could rest easy in this.",
+  "scyphojelDescription" : "This bed makes you feel like you're floating, jol!",
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 14.5],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/scyphojel/scyphojelbed/scyphojelbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed3"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ],
+
+  "inventoryIcon" : "scyphojelbedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "scyphojelbed.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

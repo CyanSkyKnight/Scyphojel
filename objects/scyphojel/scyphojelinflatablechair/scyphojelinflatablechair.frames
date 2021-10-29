@@ -5,15 +5,25 @@
     "dimensions" : [1, 9],
     "names" : [
       [ "default" ],
-      [ "red" ],
-      [ "blue" ],
-      [ "green" ],
-      [ "yellow" ],
-      [ "orange" ],
-      [ "pink" ],
-      [ "black" ],
-      [ "white" ]
+      [ null ],
+      [ null ],
+      [ null ],
+      [ null ],
+      [ null ],
+      [ null ],
+      [ null ],
+      [ null ]
     ]
 
+  },
+   "aliases" : {
+    "red" : "default",
+    "blue" : "default",
+    "green" : "default",
+    "yellow" : "default",
+    "orange" : "default",
+    "pink" : "default",
+    "black" : "default",
+    "white" : "default"
   }
 }

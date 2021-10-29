@@ -1,0 +1,48 @@
+{
+  "objectName" : "scyphojelchair",
+  "colonyTags" : ["scyphojel", "office"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 75,
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "description" : "An ergonomic office chair. The best chairs for PC gaming.",
+  "shortdescription" : "Teal Jel Chair",
+  "race" : "scyphojel",
+
+  "apexDescription" : "Why would a Scyphojel need an ergonomic chair like this? They don't have a backbone to keep in shape.",
+  "avianDescription" : "What devilry is this, a chair on wheels?",
+  "floranDescription" : "Ssspiny chair!",
+  "glitchDescription" : "Analytical. There are numerous levers on the underside of this chair to allow adjustments to be made.",
+  "humanDescription" : "An ergonomic chair. They're good for your back as long as you aren't slouching.",
+  "hylotlDescription" : "An elegant chair, designed with both form and function in mind.",
+  "novakidDescription" : "Not quite my style, but it's comfortable enough.",
+  "scyphojelDescription" : "A chair for computer desks, jol.",
+
+  "inventoryIcon" : "scyphojelchairicon.png",
+  "orientations" : [
+    {
+      "image" : "scyphojelchair.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "flipImages" : true,
+      "direction" : "left",
+      "sitPosition" : [0, 22],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "scyphojelchair.png:<color>",
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+      "direction" : "right",
+      "sitPosition" : [0, 22],
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}
