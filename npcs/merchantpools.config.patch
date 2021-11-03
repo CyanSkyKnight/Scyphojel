@@ -27,5 +27,22 @@
 	  { "item" : { "name" : "scyphojelbubblegunT5" }},
 	  { "item" : { "name" : "scyphojelbubblegunpoison" }}
 	]]
+	]},
+{"op" : "add", "path" : "/scyphojelfurniture", "value":[
+	[0, [  
+	  { "item" : { "name" : "scyphojelinflatablechair" }},
+	  { "item" : { "name" : "scyphojelinflatablechair2" }},
+	  { "item" : { "name" : "scyphojelchair" }},
+	  { "item" : { "name" : "scyphojelchair2" }},
+	  { "item" : { "name" : "scyphojelbed" }},
+	  { "item" : { "name" : "scyphojelbed2" }},
+	  { "item" : { "name" : "scyphojelcomputer" }},
+	  { "item" : { "name" : "scyphojelcomputer2" }},
+	  { "item" : { "name" : "scyphojeltable" }},
+	  { "item" : { "name" : "scyphojeltable2" }},
+	  { "item" : { "name" : "scyphojelcrate" }},
+	  { "item" : { "name" : "scyphojelposter" }},
+	  { "item" : { "name" : "scyphojelcrate2" }}
+	]]
 	]}
 ]

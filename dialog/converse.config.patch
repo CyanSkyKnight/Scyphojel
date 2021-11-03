@@ -28,7 +28,7 @@
 		"Jol.",
 		"Jol?",
 		"I am just an animal, a strange anemone, jol!",
-		"I'm not venomous! I use electricity to sting, jol!",
+		"I'm not venomous, jol! I use electricity to sting, jol!",
 		"When you were a polyp, what side of the colony did you attach to, jol?",
 		"Let's shake hands, jol!",
 		"Look at me! I got no bones, jol!",
@@ -47,6 +47,7 @@
 		"Where did you come from, jol?"
 		],
 	"glitch":[
+		"My name is <selfname>, jol. Huh? No it's not <selfname>jol, jol, <selfname> is my name, jol!",
 		"Do you need recharging, jol? Just shake my hand, jol!",
 		"Do you have a creator, jol? We'd like to meet them too, jol!",
 		"Castles, kings and knights; the Glitch seem like something out of a fairytale, jol.",
@@ -56,15 +57,26 @@
 		"Where did you come from, jol?"
 		],
 	"hylotl":[
+		"My name is <selfname>, jol. Huh? No it's not <selfname>jol, jol, <selfname> is my name, jol!",
+		"Isn't it inconvenient to have to breathe in and out all the time, jol? What if you forget, jol?",
 		"Some say we used to live in water before, jol.",
-		"I've heard there are creatures a lot like us under the ocean, jol"
+		"I've heard there are creatures a lot like us under the ocean, jol."
+		],
+	"human":[
+		"My name is <selfname>, jol. Huh? No it's not <selfname>jol, jol, <selfname> is my name, jol!",
+		"Isn't it inconvenient to have to breathe in and out all the time, jol? What if you forget, jol?",
+		"We come in peace, jol!",
+		"Do you have any retro Earth games I can borrow, jol?",
+		"I've heard there are creatures a lot like us under the ocean, jol.",
+		"Where did you come from, jol?"
 		],
 	"scyphojel":[
 		"Hey! We're the same height! What a coincidence, jol!",
-		"Hello fellow Scyphojel ...jol",
+		"Hello fellow Scyphojel ...jol.",
 		"Where did you come from, jol?"
 		],
 	"novakid":[
+		"My name is <selfname>, jol. Huh? No it's not <selfname>jol, jol, <selfname> is my name, jol!",
 		"Where are your tentacles? AAAAAAHHH! \n...jol. ",
 		"Hello, glow-friend, jol!",
 		"Huh? What are you? You are not a Scyphojel, jol."

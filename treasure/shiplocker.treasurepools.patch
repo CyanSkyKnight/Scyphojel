@@ -6,6 +6,7 @@
       "fill" : [
 	   { "pool" : "starterTreasure"},
         {"item" : [ "automatoseed", 3 ]},
+        {"item" : [ "glowstickgreen", 25 ]},
         {"item" : [ "scyphojel_coralslope", 200 ]},
         {"item" : [ "scyphojel_mesotile", 200 ]},
         {"item" : [ "copperbar", 1 ]}

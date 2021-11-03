@@ -6,8 +6,6 @@
   "inventoryIcon" : "scyphojel_mesoslime.png",
   "shortdescription" : "Mesoglea Block",
   "description" : "Living Scyphojel cuttings can be combined with algae to be used as building materials. Don't worry! They grow back!",
-  "glitchdescription" : "Observant. This is panelling widely used for ship and station construction.",
-  "florandescription" : "Shiny sssmooth glassss.",
-  "novakiddescription" : "Some thick glass, looks mighty solid.",
+
   "materialId" : 54742
 }

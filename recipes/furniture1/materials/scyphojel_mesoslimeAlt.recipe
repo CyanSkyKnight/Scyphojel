@@ -1,9 +1,9 @@
 {
   "input" : [
-    { "item" : "copperbar", "count" : 1 }
+    { "item" : "money", "count" : 100 }
   ],
   "output" : {
-    "item" : "scyphojel_mesotile",
+    "item" : "scyphojel_mesoslime",
     "count" : 100
   },
   "duration" : 0.01,

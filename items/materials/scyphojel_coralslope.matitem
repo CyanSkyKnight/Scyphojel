@@ -6,8 +6,6 @@
   "inventoryIcon" : "scyphojel_coralslope.png",
   "shortdescription" : "Coranthlite Slope",
   "description" : "A rocky, living material made of space coral and algae.",
-  "glitchdescription" : "Observant. This is panelling widely used for ship and station construction.",
-  "florandescription" : "Shiny sssmooth glassss.",
-  "novakiddescription" : "Some thick glass, looks mighty solid.",
+
   "materialId" : 54743
 }
