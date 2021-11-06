@@ -1,0 +1,65 @@
+[
+	{
+		"op": "add",
+		"path": "/attack/scyphojel",
+		"value": {
+			"default": [
+				"An enemy appears, jol!",
+				"AAAAAAHHH! Jol.",
+				"JOL!",
+				"JOOOOOL!"
+
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/saturn",
+		"value": {
+			"default": [
+				"Go respawn somewhere else, jol.",
+				"Get good, jol!",
+				"What was your plan, jol",
+				"Victory, jol!"
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/cantReach/saturn",
+		"value": {
+			"default" : [
+				"I can't stretch that far, jol!",
+				"Stay away please, jol!",
+				"Please come back, jol!",
+				"No fair, jol!"
+			]
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/cheerOn/saturn",
+		"value": {
+			"default" : [
+				"Together, we'll win, jol!",
+				"Teamwork makes the dream work, jol!",
+				"We can do it, jol!"
+				]
+		}
+	},	
+	{
+		"op": "add",
+		"path": "/lostTarget/saturn",
+		"value": {
+			"default": [
+				"They're gone, jol!",
+				"Where did you go, jol?",
+				"Is this a game of hide and seek, jol?",
+				"I'm gonna pretend nothing happened there, jol...",
+				"Goodbye, jol!"
+			]
+		}
+	}
+]

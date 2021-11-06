@@ -1,0 +1,28 @@
+
+[
+    {
+      "op": "add",
+      "path": "/converse/scyphojel",
+      "value": {
+		"default":[
+			"Welcome to space, jol!", 
+			"We had air installed for travelers like you, jol!",
+			"Are you here to party, jol?",
+			"Did you find any cool tech, jol?",
+			"If we find a planet made of gold, we'll never go hungry, jol!",
+			"This place is like a tiny version of Jellascyphi, jol!",
+			"Does this place still count as the sky to you, jol?",
+			"That vehicle you flew here with looks really cool, jol!"
+			],
+		"scyphojel" : [
+			"Welcome back to space, jol!", 
+			"We had air installed for travelers, jol!",
+			"Are you here to party, jol?",
+			"Did you find any cool tech, jol?",
+			"If we find a planet made of gold, we'll never go hungry, jol!",
+			"This place is like a tiny version of Jellascyphi, jol!",
+			"That vehicle you flew here with looks really cool, jol!"
+		    ]
+		}
+	}
+]

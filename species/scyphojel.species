@@ -111,34 +111,29 @@
 	  { "item" : "scyphojel_mesotile" },
  	  { "item" : "scyphojel_mesotile2" },
 
-// 	  { "item" : "scyphojelmannequin" }, put in spinning wheel category 
+ 	  { "item" : "scyphojelinflatablechair" },
+ 	  { "item" : "scyphojelinflatablechair2" },
+ 	  { "item" : "scyphojelchair" },
+ 	  { "item" : "scyphojelchair2" },
 
-// 	  { "item" : "scyphojelinflatablechair" },
-// 	  { "item" : "scyphojelinflatablechair2" },
-// 	  { "item" : "scyphojelchair" },
-// 	  { "item" : "scyphojelchair2" },
+ 	  { "item" : "scyphojelbed" },
+ 	  { "item" : "scyphojelbed2" },
 
-// 	  { "item" : "scyphojelbed" },
-// 	  { "item" : "scyphojelbed2" },
+ 	  { "item" : "scyphojelcomputer" },
+ 	  { "item" : "scyphojelcomputer2" },
 
-// 	  { "item" : "scyphojelcomputer" },
-// 	  { "item" : "scyphojelcomputer2" },
+ 	  { "item" : "scyphojeltable" },
+ 	  { "item" : "scyphojeltable2" },
 
-// 	  { "item" : "scyphojeltable" },
-// 	  { "item" : "scyphojeltable2" },
-
-// 	  { "item" : "scyphojelcrate" },
-// 	  { "item" : "scyphojelcrate2" },
-
-//bed
-//bed2
-//poster
+ 	  { "item" : "scyphojelcrate" },
+ 	  { "item" : "scyphojelcrate2" },
 
 // Furniture Table 2
       { "item" : "scyphojelstoragelocker" },
       { "item" : "scyphojelshipdoor" },
-      { "item" : "scyphojelshiphatch" }
+      { "item" : "scyphojelshiphatch" },
 // Spinning Wheel
+ 	  { "item" : "scyphojelmannequin" }
 	  ]
   },
   

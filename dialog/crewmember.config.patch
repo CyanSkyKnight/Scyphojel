@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/converse/scyphojel",
+		"value": {
+			"default": [
+				"I bet we'll find something cool out there, jol!",
+				"Someday, I'll have to teach you how to float, jol",
+				"Thanks for letting me travel with you, jol"
+			],
+			"scyphojel": [
+				"I bet we'll find something cool out there, jol!",
+				"Thanks for letting me travel with you, jol"
+			]
+		}
+	}
+]

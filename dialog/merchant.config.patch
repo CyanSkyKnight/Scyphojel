@@ -1,0 +1,55 @@
+[
+	{
+		"op": "add",
+		"path": "/merchantStart/scyphojel",
+		"value": {
+			"default": [
+	      "Welcome to my shop, jol!",
+	      "See anything you like, jol?",
+	      "What can I help you with, jol?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/merchantEnd/scyphojel",
+		"value": {
+			"default": [
+			"See you next time, jol.",
+			"Come again, jol.",
+			"Thanks for visiting, jol."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/follow/scyphojel",
+		"value": {
+			"default": [
+			    "We can do business at my store. Please follow me, jol.",
+	            "Come in and see what I've got, jol!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/welcome/scyphojel",
+		"value": {
+			"default": [
+	      "Welcome to my shop, jol.",
+	      "See anything you like, jol?",
+	      "What can I help you with, jol?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/tout/scyphojel",
+		"value": {
+			"default" : [
+			"Check out what I have in stock, jol!",
+			"I have lots of things for sale, so I'm sure you'll find something, jol!"
+			]
+		}
+	}
+]

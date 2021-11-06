@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/helpme/scyphojel",
+		"value": {
+			"default": [
+				"Oh no, jol!",
+				"Oh heck, jol!",
+				"Don't fight me, jol!",
+				"Uh-oh, jol!",
+				"Was it something I said, jol?!",
+				"Jol?!",
+				"Aaahhh, jol!"
+			]
+		}
+	}
+]

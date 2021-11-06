@@ -28,6 +28,27 @@
 	  { "item" : { "name" : "scyphojelbubblegunpoison" }}
 	]]
 	]},
+	
+{"op" : "add", "path" : "/scyphojelingredients", "value":[
+	[0, [  
+      { "item" : { "name" : "automato" }, "rarity" : 0.05 },
+      { "item" : { "name" : "currentcorn" }, "rarity" : 0.05 },
+      { "item" : { "name" : "wheat" }, "rarity" : 0.05 },
+      { "item" : { "name" : "diodia" }, "rarity" : 0.05 },
+      { "item" : { "name" : "boltbulb" }, "rarity" : 0.05 },
+      { "item" : { "name" : "coffeebeans" }, "rarity" : 0.05 },
+      { "item" : { "name" : "neonmelon" }, "rarity" : 0.05 },
+      { "item" : { "name" : "potato" }, "rarity" : 0.05 },
+      { "item" : { "name" : "sugar" }, "rarity" : 0.05 },
+	 { "item" : { "name" : "glowstickgreen", "data" : { "price" : 5 }}, "rarity" : 0.5},
+	 { "item" : { "name" : "glowstickblue", "data" : { "price" : 5 }}, "rarity" : 0.5},
+	 { "item" : { "name" : "glowstickorange", "data" : { "price" : 5 }}, "rarity" : 0.5},
+	 { "item" : { "name" : "glowstickyellow", "data" : { "price" : 5 }}, "rarity" : 0.5},
+      { "item" : { "name" : "bottledwater" }, "rarity" : 0.05 },
+      { "item" : { "name" : "milk" }, "rarity" : 0.05 }
+	]]
+	]},
+	
 {"op" : "add", "path" : "/scyphojelfurniture", "value":[
 	[0, [  
 	  { "item" : { "name" : "scyphojelinflatablechair" }},

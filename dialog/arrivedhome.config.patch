@@ -1,0 +1,25 @@
+[
+	{
+		"op": "add",
+		"path": "/beacon/scyphojel",
+		"value": {
+			"default": [
+				"You called, jol?",
+				"Is there something you need, jol?",
+				"You wanna talk, jol?",
+				"Hi! What's up, jol?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/rent/scyphojel",
+		"value": {
+			"default": [
+				"Thank you, jol!",
+				"Here's a present, jol!",
+				"Please take this, jol!"
+			]
+		}
+	}
+]

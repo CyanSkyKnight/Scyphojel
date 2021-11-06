@@ -1,0 +1,14 @@
+[
+
+	[{
+		"op": "add",
+		"path": "/hail/scyphojel",
+		"value": {
+		"default": [
+			"Everything's going well, jol.",
+			"I'll protect everyone, jol!",
+			"The bad guys will be zapped, jol!"
+		]
+		}
+	}
+]]

@@ -1,0 +1,47 @@
+[
+	{
+		"op": "add",
+		"path": "/tagCriteria/scyphojel",
+		"value": {
+			"default": [
+				"My house is missing something, jol!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/enclosedArea/scyphojel",
+		"value": {
+			"default": [
+				"There are holes in my shelter, jol!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/otherDeed/scyphojel",
+		"value": {
+			"default": [
+				"I don't want a roommate, jol!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/severe/scyphojel",
+		"value": {
+			"default": [
+				"I can't live in these conditions, jol!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/final/scyphojel",
+		"value": {
+			"default": [
+				"Seems like this is goodbye, jol..."
+			]
+		}
+	}
+]

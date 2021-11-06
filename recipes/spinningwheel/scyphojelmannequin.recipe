@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "scyphojel_coralslope", "count" : 25 },
+    { "item" : "copperbar", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "scyphojelmannequin",
+  "count" : 1
+  },
+  "groups" : [ "craftingwheel2", "ingredients" ]
+}

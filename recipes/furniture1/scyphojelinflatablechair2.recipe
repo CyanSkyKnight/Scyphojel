@@ -1,10 +1,10 @@
 {
   "input" : [
-    { "item" : "money", "count" : 100 }
+    { "item" : "scyphojel_mesoslime", "count" : 20 }
   ],
   "output" : {
-    "item" : "scyphojel_mesoslime",
-    "count" : 100
+    "item" : "scyphojelinflatablechair2",
+    "count" : 1
   },
   "duration" : 0.01,
   "groups"  : [ "craftingfurniture", "materials", "all" ]
