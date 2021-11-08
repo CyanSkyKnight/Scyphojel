@@ -2,7 +2,7 @@
 { "op" : "add", "path" : "/scyphojel_voidvillage", "value" :     
 {
     "type" : "FloatingDungeon",
-    "dungeonWorld" : "spacestation_electronics",
+    "dungeonWorld" : "scyphojel_voidvillage",
     "beamUpRule" : "Anywhere",
     "disableDeathDrops" : true,
 
@@ -14,17 +14,17 @@
 
       "skyType" : "barren",
       "skyColoring" : {
-        "mainColor" : [255, 150, 255],
+        "mainColor" : [255, 170, 230],
 
-        "morningColors" : [[255, 150, 255], [255, 150, 255]],
-        "dayColors" : [[255, 150, 255], [255, 150, 255]],
-        "eveningColors" : [[255, 150, 255], [255, 150, 255]],
-        "nightColors" : [[255, 150, 255], [255, 150, 255]],
+        "morningColors" : [[255, 170, 230], [255, 170, 230]],
+        "dayColors" : [[255, 170, 230], [255, 170, 230]],
+        "eveningColors" : [[255, 170, 230], [255, 170, 230]],
+        "nightColors" : [[255, 170, 230], [255, 170, 230]],
 
-        "morningLightColor" : [150, 120, 130],
-        "dayLightColor" : [150, 120, 130],
-        "eveningLightColor" : [150, 120, 130],
-        "nightLightColor" : [120, 120, 130]
+        "morningLightColor" : [255, 170, 230],
+        "dayLightColor" : [255, 170, 230],
+        "eveningLightColor" : [255, 170, 230],
+        "nightLightColor" : [255, 170, 230]
       }
     }
   }

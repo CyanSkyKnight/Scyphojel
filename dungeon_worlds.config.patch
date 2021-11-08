@@ -1,0 +1,21 @@
+[
+{ "op" : "add", "path" : "/scyphojel_voidvillage", "value" :
+
+{
+    "primaryDungeon" : "scyphojel_voidcity",
+    "threatLevel" : 1,
+    "gravity" : 0,
+    "airless" : true,
+    "worldSize" : [1800, 700],
+    "dungeonBaseHeight" : 300,
+    "dungeonSurfaceHeight" : 300,
+    "ambientLightLevel" : [5, 5, 10],
+    "ambientNoises" : "/sfx/environmental/space_loop4.ogg",
+    "musicTrack" : "/music/crystal-exploration1.ogg",
+    "environmentStatusEffects" : ["biomeairless", "dontstarve"],
+    "worldEdgeForceRegions" : "TopAndBottom",
+    "biome" : "space"
+    }
+
+}
+]

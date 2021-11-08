@@ -5,7 +5,7 @@
   "printable" : false,
   "rarity" : "Common",
   "objectType" : "loungeable",
-  "description" : "The Captain floats here to fly the ship.",
+  "description" : "The Captain sits here to fly the ship.",
   "shortdescription" : "Scyphojel Ship Interface",
   "race" : "scyphojel",
   "category" : "furniture",
@@ -16,6 +16,7 @@
   "humanDescription" : "The Captain's chair. The person sitting here decides where the ship goes",
   "hylotlDescription" : "Sitting on the Captain's chair allows me to fly this ship.",
   "novakidDescription" : "The Captain's chair. The guy who sits here decides where the ship goes",
+  "novakidDescription" : "This is the pilot's seat, jol.",
   "inventoryIcon" : "scyphojelcaptainschairicon.png",
   "orientations" : [
     {
