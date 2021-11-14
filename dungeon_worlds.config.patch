@@ -11,7 +11,7 @@
     "dungeonSurfaceHeight" : 300,
     "ambientLightLevel" : [5, 5, 10],
     "ambientNoises" : "/sfx/environmental/space_loop4.ogg",
-    "musicTrack" : "/music/crystal-exploration1.ogg",
+    "musicTrack" : "/music/ocean-exploration2.ogg",
     "environmentStatusEffects" : ["biomeairless", "dontstarve"],
     "worldEdgeForceRegions" : "TopAndBottom",
     "biome" : "space"

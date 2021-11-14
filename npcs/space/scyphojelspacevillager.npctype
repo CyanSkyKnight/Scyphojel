@@ -1,0 +1,17 @@
+{
+  "type" : "scyphojelspacevillager",
+  "baseType" : "villager",
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0
+    },
+    "questGenerator" : {
+      "enableParticipation" : false
+    },
+
+    "dialog" : {
+      "converse" : "/dialog/spaceconverse.config:converse"
+    }
+  }
+}

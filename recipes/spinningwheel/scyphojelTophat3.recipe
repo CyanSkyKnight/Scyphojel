@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 10 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "scyphojelTophat3", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

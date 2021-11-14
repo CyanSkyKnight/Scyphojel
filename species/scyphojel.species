@@ -133,6 +133,14 @@
       { "item" : "scyphojelshipdoor" },
       { "item" : "scyphojelshiphatch" },
 // Spinning Wheel
+      { "item" : "scyphojel_invishead" },
+      { "item" : "scyphojel_invischest" },
+      { "item" : "scyphojel_invispants" },
+	  
+      { "item" : "scyphojel_jelbowtie" },
+      { "item" : "scyphojel_jelshirt" },
+      { "item" : "scyphojelTophat3" },
+	  
  	  { "item" : "scyphojelmannequin" }
 	  ]
   },

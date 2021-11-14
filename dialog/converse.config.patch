@@ -1,5 +1,4 @@
-
-  [
+[
     {
       "op": "add",
       "path": "/greeting/scyphojel",
@@ -85,7 +84,66 @@
 		"Huh? What are you, jol?",
 		"My name is <selfname>, jol. Huh? No it's not <selfname>jol, jol, <selfname> is my name, jol!",
 		"Isn't it inconvenient to have to breathe in and out all the time, jol? What if you forget, jol?"
-        ]
+		]
       }
+    },
+    {
+      "op": "add",
+      "path": "/converse/apex/scyphojel",
+      "value": [
+		"How are you floating?",
+		"What is this transparent substance you are made from?",
+		"You are very conspicuous. The Miniknog could easily find you, so please be careful.",
+		"What is this strange creature? Can I not even trust my own eyes now?"
+        ]
+    },
+    {
+      "op": "add",
+      "path": "/converse/human/scyphojel",
+      "value": [
+		  "A jellyfish?!",
+		  "How can you hover like that?",
+		  "Do you have to buy pants with three leg holes?",
+		  "I can see through you! Cool!",
+		  "Can you carry things with all of your tentacles? You could quintuple wield guns!"
+        ]
+    },
+  
+    {
+      "op": "add",
+      "path": "/converse/glitch/scyphojel",
+      "value": [
+		  "Confused. I can't read your facial expressions.",
+		  "Concerned. Your electricity won't harm me, will it?"
+        ]     
+    },
+    {
+      "op": "add",
+      "path": "/converse/hylotl/scyphojel",
+      "value":[
+		  "With that electricity crackling around you, is it safe for you to be in water?",
+		  "You're not from the ocean, are you?",
+		  "You seem like a colorful character, in a literal sense too."
+        ]
+      },
+
+    {
+      "op": "add",
+      "path": "/converse/novakid/scyphojel",
+      "value":[
+		  "What brings you out here?",
+		  "Not often I see other species that glow.",
+		  "You must have a real sense of adventure to travel out here."
+        ]
+      },
+
+    {
+      "op": "add",
+      "path": "/converse/avian/scyphojel",
+      "value": [
+		  "You can fly?!",
+		  "A jellyfish?!",
+		  "I don't think I have seen a species like yours before."
+        ]
     }
-  ]
+	]

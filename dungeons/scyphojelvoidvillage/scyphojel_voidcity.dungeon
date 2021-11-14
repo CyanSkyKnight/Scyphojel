@@ -4,7 +4,7 @@
     "species" : "generic",
     "rules" : [
     ],
-    "anchor" : [ "scyphojel_voidcity" ],
+    "anchor" : [ "scyphojel_voidcity", "scyphojel_voidcity2" ],
     "gravity" : 40,
     "breathable" : true,
     "maxRadius" : 1000000,
@@ -22,6 +22,14 @@
 		
       ],
       "def" : [ "tmx", "scyphojel_voidcity.json" ]
+    },
+    {
+      "name" : "scyphojel_voidcity2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+		
+      ],
+      "def" : [ "tmx", "scyphojel_voidcity2.json" ]
     }
   ]
 }
