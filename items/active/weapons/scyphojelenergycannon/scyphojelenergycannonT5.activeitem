@@ -6,7 +6,7 @@
   "description" : "(Level 5) It's cutting edge! \nDamage: ^yellow;6^reset;, ^cyan;33 (charged)^reset;",
   "shortdescription" : "Charge Cannon-GB",
   "tooltipKind" : "base",
-  "category" : "gun",
+  "category" : "pistol",
   "twoHanded" : false,
   "handGrip" : "wrap",
   "itemTags" : ["weapon", "ranged", "energy"],

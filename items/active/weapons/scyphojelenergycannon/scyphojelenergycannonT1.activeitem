@@ -6,7 +6,7 @@
   "description" : "(Level 1) Hold fire to charge. \nDamage: ^yellow;2^reset;, ^cyan;11 (charged)^reset;",
   "shortdescription" : "Charge Cannon",
   "tooltipKind" : "base",
-  "category" : "gun",
+  "category" : "pistol",
   "twoHanded" : false,
   "handGrip" : "wrap",
   "itemTags" : ["weapon", "ranged", "energy"],

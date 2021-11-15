@@ -6,7 +6,7 @@
   "description" : "(Level 4) It's atomic purple! \nDamage: ^yellow;5^reset;, ^cyan;28 (charged)^reset;",
   "shortdescription" : "Charge Cannon-MB",
   "tooltipKind" : "base",
-  "category" : "gun",
+  "category" : "pistol",
   "twoHanded" : false,
   "handGrip" : "wrap",
   "itemTags" : ["weapon", "ranged", "energy"],

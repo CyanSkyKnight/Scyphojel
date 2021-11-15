@@ -6,7 +6,7 @@
   "description" : "(Level 6) The future is now! \nDamage: ^yellow;7^reset;, ^cyan;39 (charged)^reset;",
   "shortdescription" : "Charge Cannon-TB",
   "tooltipKind" : "base",
-  "category" : "gun",
+  "category" : "pistol",
   "twoHanded" : false,
   "handGrip" : "wrap",
   "itemTags" : ["weapon", "ranged", "energy"],

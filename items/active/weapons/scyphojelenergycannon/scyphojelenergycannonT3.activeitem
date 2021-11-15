@@ -6,7 +6,7 @@
   "description" : "(Level 3) Fires energy blasts. \nDamage: ^yellow;4^reset;, ^cyan;22 (charged)^reset;",
   "shortdescription" : "Charge Cannon-kB",
   "tooltipKind" : "base",
-  "category" : "gun",
+  "category" : "pistol",
   "twoHanded" : false,
   "handGrip" : "wrap",
   "itemTags" : ["weapon", "ranged", "energy"],

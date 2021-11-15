@@ -6,7 +6,7 @@
   "description" : "(Level 2) Hold fire to charge. \nDamage: ^yellow;3^reset;, ^cyan;17 (charged)^reset;",
   "shortdescription" : "Charge Cannon-B",
   "tooltipKind" : "base",
-  "category" : "gun",
+  "category" : "pistol",
   "twoHanded" : false,
   "handGrip" : "wrap",
   "itemTags" : ["weapon", "ranged", "energy"],
