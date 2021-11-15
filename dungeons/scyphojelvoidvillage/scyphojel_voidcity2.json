@@ -204,6 +204,14 @@
                  "height":16,
                  "id":2292,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"scyphojelclutter\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -216,6 +224,14 @@
                  "height":16,
                  "id":2293,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"basicSpaceTreasure\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -228,6 +244,14 @@
                  "height":16,
                  "id":2298,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"scyphojelclutter\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -507,6 +531,14 @@
                  "height":16,
                  "id":2419,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"scyphojelclutter\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -519,6 +551,14 @@
                  "height":16,
                  "id":2420,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"scyphojelclutter\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -531,6 +571,14 @@
                  "height":16,
                  "id":2422,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"basicSpaceTreasure\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -543,6 +591,14 @@
                  "height":16,
                  "id":2423,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"scyphojelglowsticks\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -567,6 +623,14 @@
                  "height":16,
                  "id":2425,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"scyphojelglowsticks\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -906,6 +970,14 @@
                  "height":16,
                  "id":2535,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"scyphojelclutter\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -978,6 +1050,14 @@
                  "height":16,
                  "id":2557,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"scyphojelclutter\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1062,6 +1142,14 @@
                  "height":16,
                  "id":2569,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"scyphojelclutter\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1074,6 +1162,14 @@
                  "height":16,
                  "id":2570,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"scyphojelclutter\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1086,6 +1182,14 @@
                  "height":16,
                  "id":2571,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"scyphojelclutter\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1098,6 +1202,14 @@
                  "height":16,
                  "id":2573,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"basicSpaceTreasure\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,

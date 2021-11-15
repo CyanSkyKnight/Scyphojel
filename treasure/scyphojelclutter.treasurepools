@@ -1,0 +1,85 @@
+{
+ 	"scyphojelclutter" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.50, "pool" : "basicTreasure"},
+        {"weight" : 0.25, "pool" : "scyphojelglowsticks"},
+		{"weight" : 0.02, "item" : "scyphojel_study-codex"},
+        {"weight" : 0.10, "item" : [ "screws", 5]},
+        {"weight" : 0.15, "item" : [ "wire", 1]},
+        {"weight" : 0.15, "item" : [ "coralfragment", 3]},
+        {"weight" : 0.05, "item" : [ "soda", 1]},
+        {"weight" : 0.05, "item" : [ "reefcola", 1]},
+        {"weight" : 0.05, "item" : [ "automato", 1]},
+        {"weight" : 0.05, "item" : [ "diodia", 1]},
+        {"weight" : 0.05, "item" : [ "sugar", 1]},
+        {"weight" : 0.10, "item" : [ "bouncyball", 1]},	
+        {"weight" : 0.01, "item" : [ "scyphojelLampshade", 1]},		
+		{"weight" : 0.01, "item" : [ "scyphojelBuckledHat", 1]},
+		{"weight" : 0.01, "item" : [ "scyphojelTophat3", 1]},
+		{"weight" : 0.01, "item" : [ "scyphojel_jelbowtie", 1]},
+		{"weight" : 0.01, "item" : [ "battery", 1]},
+		{"weight" : 0.01, "item" : [ "noveltybanana", 1]},
+
+		{"weight" : 0.15, "item" : [ "scyphojel_coralslope", 50]},
+		{"weight" : 0.15, "item" : [ "scyphojel_mesoslime", 50]},
+		{"weight" : 0.15, "item" : [ "scyphojel_mesotile", 50]},
+		{"weight" : 0.15, "item" : [ "redtoyblock", 50]},
+		
+		{"weight" : 0.15, "item" : [ "biorock", 50]},
+		{"weight" : 0.15, "item" : [ "biorock2", 50]},
+		
+		
+		
+		{"weight" : 0.05, "item" : [ "capturepod", 1]},
+        {"weight" : 0.05, "item" : [ "corefragmentore", 2]}
+      ],
+      "poolRounds" : [
+        [0.25, 0],
+        [0.70, 1],
+        [0.05, 2]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+ 	"scyphojelglowsticks" : [
+    [1, {
+      "pool" : [
+
+        {"weight" : 0.25, "item" : [ "glowstickblue", 3]},
+        {"weight" : 0.25, "item" : [ "glowstickgreen", 3]},
+        {"weight" : 0.25, "item" : [ "glowstickorange", 3]},
+        {"weight" : 0.25, "item" : [ "glowstickyellow", 3]},
+        {"weight" : 0.25, "item" : [ "glowfibre", 3]}
+      ],
+      "poolRounds" : [
+        [0.95, 1],
+        [0.05, 2]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  
+ 	"scyphojelfoodonly" : [
+    [1, {
+      "pool" : [
+
+        {"weight" : 0.05, "item" : [ "screws", 1]},
+        {"weight" : 0.15, "item" : [ "wire", 1]},
+        {"weight" : 0.05, "item" : [ "soda", 1]},
+        {"weight" : 0.05, "item" : [ "reefcola", 1]},
+        {"weight" : 0.05, "item" : [ "automato", 1]},
+        {"weight" : 0.05, "item" : [ "diodia", 1]},
+        {"weight" : 0.05, "item" : [ "sugar", 1]}
+      ],
+      "poolRounds" : [
+        [0.95, 1],
+        [0.05, 2]
+      ],
+      "allowDuplication" : true
+    }]
+  ]
+  
+}
+
+
