@@ -18,7 +18,7 @@
   "inventoryIcon" : "scyphojelbrokenfuelhatchicon.png",
   "orientations" : [
     {
-      "imageLayers" : [ { "image" : "scyphojelbrokenfuelhatch.png:<color>.<frame>" }, { "image" : "scyphojelbrokenfuelhatchlit.png:<color>.<frame>" } ],
+      "imageLayers" : [ { "image" : "scyphojelbrokenfuelhatch.png:<color>.<frame>" } ],
       "imagePosition" : [-8, -16],
       "frames" : 1,
       "animationCycle" : 1,
