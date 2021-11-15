@@ -1,0 +1,4 @@
+[
+{"op" : "add", "path" : "/supportedSpecies/-", "value" : "scyphojel"},
+{"op" : "add", "path" : "/customBodySpecies/-", "value" : "scyphojel"}
+]

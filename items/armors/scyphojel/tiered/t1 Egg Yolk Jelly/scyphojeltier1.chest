@@ -46,7 +46,9 @@
   ],
 
   "itemTags" : [ "tier1armour" ],
-
+  
+  "builder" : "/armorAdapt/armorAdaptBuilder.lua",
+  
   "colorOptions" : [
 	//SATURNIAN SUN YELLOW 		  														
 	{ "ffca8a" : "D8AB43FE", "e0975c" : "C88B28FE", "a85636" : "8D581CFE", "6f2919" : "663B14FE" },
