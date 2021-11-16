@@ -37,7 +37,6 @@
   ],
 
   "itemTags" : [ "tier5armour" ],
-  "builder" : "/armorAdapt/armorAdaptBuilder.lua",
 
   "colorOptions" : [
     // TEAL
