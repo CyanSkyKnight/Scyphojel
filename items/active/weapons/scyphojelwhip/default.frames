@@ -3,11 +3,7 @@
     "size" : [40, 96],
     "dimensions" : [1, 1],
     "names" : [
-      [ "idle" ]
+      [ "default" ]
     ]
   }
 }
-//Swoosh up (Extend)
-//wait 1 - (Retract)
-//Swoosh down (Swing)
-//wait 2 (Retract)
