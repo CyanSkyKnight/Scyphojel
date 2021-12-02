@@ -1,4 +1,5 @@
 *.pdn
+*.ini
 tilesets/packed/huge-objects.json
 tilesets/packed/liquids.json
 tilesets/packed/materials.json
