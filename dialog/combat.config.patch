@@ -14,7 +14,7 @@
 	},
 	{
 		"op": "add",
-		"path": "/killedTarget/saturn",
+		"path": "/killedTarget/scyphojel",
 		"value": {
 			"default": [
 				"Go respawn somewhere else, jol.",
@@ -27,7 +27,7 @@
 	
 	{
 		"op": "add",
-		"path": "/cantReach/saturn",
+		"path": "/cantReach/scyphojel",
 		"value": {
 			"default" : [
 				"I can't stretch that far, jol!",
@@ -40,7 +40,7 @@
 	
 	{
 		"op": "add",
-		"path": "/cheerOn/saturn",
+		"path": "/cheerOn/scyphojel",
 		"value": {
 			"default" : [
 				"Together, we'll win, jol!",
@@ -51,7 +51,7 @@
 	},	
 	{
 		"op": "add",
-		"path": "/lostTarget/saturn",
+		"path": "/lostTarget/scyphojel",
 		"value": {
 			"default": [
 				"They're gone, jol!",
